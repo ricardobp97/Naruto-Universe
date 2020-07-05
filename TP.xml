@@ -43,5 +43,7 @@
         <deliverable path="./NarutoData/naruto_script.js">Script de Conversão JSON para TTL</deliverable>
         <deliverable path="./NarutoData/data/ttl/">Ficheiros TTL com dados individuais</deliverable>
         <deliverable path="./NarutoData/data/Naruto.ttl">Ficheiro TTL com Ontologia Final</deliverable>
+        <deliverable path="./naruto-api/">Servidor API (NodeJS)</deliverable>
+        <deliverable path="./naruto-ui/">Servidor Interface (VueJS)</deliverable>
     </deliverables>
 </pr>
