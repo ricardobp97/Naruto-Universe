@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pr>
+    <meta>
+        <keyname>PRC_MIEI2020_TP</keyname>
+        <title>Ontologia, API Naruto e WebApp</title>
+        <subtitle>Relatório do trabalho prático de grupo da cadeira de PRC de MIEI 2019/20</subtitle>
+        <bdate>18/05/2020</bdate>
+        <edate>05/07/2020</edate>
+        <supervisor>
+            <name>José Carlos Ramalho</name>
+            <email>jcr@di.uminho.pt</email>
+            <homepage>http://www4.di.uminho.pt/~jcr/</homepage>
+        </supervisor>
+    </meta>
+    <workteam>
+        <member>
+            <identifier>A77045</identifier>
+            <name>Ricardo Pereira</name>
+            <email>a77045@alunos.uminho.pt</email>
+            <photo path="./ricardo.jpg"/>
+        </member>
+        <member>
+            <identifier>A63129</identifier>
+            <name>Duarte Freitas</name>
+            <email>a63129@alunos.uminho.pt</email>
+            <photo path="./duarte.jpeg"/>
+        </member>
+        <member>
+            <identifier>A74264</identifier>
+            <name>Rafael Silva</name>
+            <email>a74264@alunos.uminho.pt</email>
+            <photo path="./rafael.png"/>
+        </member>
+    </workteam>
+    <abstract>
+        <p>Neste trabalho prático era pretendido que o grupo modelasse e criasse uma ontologia com dados recolhidos na web e, posteriormente, desenvolve-se uma aplicação web onde iria demonstrar o conteúdo da ontologia. Posto isto, o grupo decidiu construir uma ontologia com o máximo de informações que conseguisse sobre a Anime Japonesa <b>Naruto</b>. O primeiro passo passou por tentarmos encontrar alguma <b>API Rest</b> que nos pudesse fornecer alguns dados sobre a Anime. No entanto, não foi encontrada nenhuma API sobre o assunto por isso o grupo teve que adoptar a estratégia de tentar recolher o máximo de informação a partir de sites web. Começamos por encontrar alguns sites com informações e analisamos o seu código fonte (HTML) para tentar criar <i>scripts</i> e fazer <i>web scraping</i> desses mesmos sites. Mais uma vez, a nossa estratégia não resultou pois nenhum dos sites mantinha uma estrutura minimamente regular de HTML para que o pudéssemos <i>crawlar</i> e obter a informação pretendida e, também, a certeza de que estaria mesmo correta. Após todas estas barreiras a decisão mais fácil teria sido trocar de tema, no entanto o grupo optou por não desistir do tema e, de certa forma, construir assim a primeira base de dados sobre <b>Naruto</b>. A única forma de o fazer foi então a recolha de informações de forma "manual", isto é, introduzindo a informação que estaria nos sites directamente em ficheiros JSON que nos iam servir como base de informação para o restante trabalho. Como é óbvio, este foi um processo bastante lento e cansativo e só foi possível com um enorme esforço do grupo. Neste processo, nem tudo foi mau uma vez que como acabamos por definir o formato dos dados em JSON à nossa maneira, fizemos-lo a pensar já nos passos que se seguiriam e tentamos modelar já os dados da forma que nos pareceu melhor desde o inicio. Após termos recolhido todos os dados que queríamos passamos à fase da construção de uma ontologia que será explicada no próximo capítulo.</p>
+        <p>Todos os dados recolhidos foram organizados então em vários JSON com o objetivo de facilitar a passagem destes dados para ficheiros TTL que iriam ser a nossa ontologia. Antes de efetuarmos esse processo, procedemos primeiro à modelação da nossa ontologia através do <b>Protégé</b> onde decidimos aquelas que seriam as nossas classes, relações entre as mesmas e os atributos de cada uma. Depois de terminada a modelação e estruturação da ontologia já temos o ficheiro TTL que servirá como base para a nossa ontologia, a este apenas precisaremos de adicionar os elementos individuais da ontologia portanto o próximo passo será esse. Para criarmos os elementos individuais da ontologia, desenvolvemos uma script em <b>NodeJS</b> que percorre todos os ficheiros JSON onde estão armazenados todos os dados recolhidos e a partir destes gera o código TTL e cria vários ficheiros TTL com os elementos individuais que serão adicionados ao ficheiro TTL da nossa ontologia. No final deste processo a ontologia está pronta a ser inserida no <b>GraphDB</b>. A razão pela qual não precisamos voltar a abrir o <b>Protégé</b> e inferir todas as relações deve-se ao facto de estarmos a inferir tudo na nossa script, mesmo nos casos de relações inversas. Tomamos a decisão de o fazer dessa forma pois com a quantidade de dados e relações que a ontologia contém o <b>Protégé</b> não iria aguentar todas as inferências e provavelmente nunca iriamos conseguir dessa forma. Por fim é inserida a ontologia no <b>GraphDB</b> e damos inicio à construção da aplicação web.</p>
+        <p>A aplicação web divide-se em 3 partes, pelo que seguimos a estrutura de uma arquitectura de micro-serviços. A primeira parte é a Base de Dados que estará no <b>GraphDB</b>, a segunda parte será a <b>API Rest</b> que foi desenvolvida em <b>NodeJS</b> e a terceira parte que será o nosso servidor de interface é a nossa aplicação em <b>VueJS</b>. O grupo respeitou todas as boas práticas na construção deste aplicação. De referir ainda que o grupo alocou a aplicação web num servidor <b>Amazon</b> e a aplicação está disponível em tempo real.</p>
+        <p>Para concluir este trabalho, fazemos uma reflexão de tudo o que foi feito e as diversas áreas de aplicação cobertas com a realização do mesmo. Mesmo encontrando grandes dificuldades para encontrar informação sobre o tema escolhido o grupo não desistiu e conseguiu realizar essa parte do trabalho. Quanto ao nível de complexidade, o grupo criou uma ontologia bastante complexa, com muitas relações, classes e atributos o que demonstra o domínio na área das ontologias. A <b>API Rest</b> foi também criada seguindo as boas normas daquilo que deve ser uma <b>API Rest</b> o que demonstra também o domínio nesta vertente. Por fim, o grupo criou uma interface em <b>VueJS</b> muito satisfatória e para que todo o trabalho fosse reconhecido de outra forma foi alojado num servidor <b>Amazon</b> e o site foi posto <i>online</i>. Posto isto, achamos que o trabalho realizado foi bastante interessante e completo a todos os níveis pelo que esperamos que seja reconhecido também dessa maneira.</p>
+    </abstract>
+    <deliverables>
+        <deliverable path="./NarutoData/data/json/">Ficheiros JSON com dados recolhidos</deliverable>
+        <deliverable path="./NarutoData/naruto_script.js">Script de Conversão JSON para TTL</deliverable>
+        <deliverable path="./NarutoData/data/ttl/">Ficheiros TTL com dados individuais</deliverable>
+        <deliverable path="./NarutoData/data/Naruto.ttl">Ficheiro TTL com Ontologia Final</deliverable>
+    </deliverables>
+</pr>

@@ -1,0 +1,2065 @@
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#A_First_Raikage_image1
+:A_First_Raikage_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :A_First_Raikage ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/27/First_Raikage.png/revision/latest?cb=20170624184709" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#A_Second_Raikage_image1
+:A_Second_Raikage_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :A_Second_Raikage ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f9/Nidaime_Raikage.png/revision/latest?cb=20170607054608" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#A_Third_Raikage_image1
+:A_Third_Raikage_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :A_Third_Raikage ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/1e/3rd_Raikage_full.png/revision/latest?cb=20141126050308" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#A_Fourth_Raikage_image1
+:A_Fourth_Raikage_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :A_Fourth_Raikage ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6b/Fourth_Raikage_full.png/revision/latest?cb=20160610220946" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ajisai_image1
+:Ajisai_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ajisai ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c4/Animal_Path_2.PNG/revision/latest?cb=20150124172232" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akahoshi_image1
+:Akahoshi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Akahoshi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/38/The_Star%27s_Radiance.png/revision/latest?cb=20150529114822" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akamaru_image1
+:Akamaru_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Akamaru ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/2a/Kiba_%26_Akamaru_in_Shippuden.png/revision/latest?cb=20140621033436" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akatsuchi_image1
+:Akatsuchi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Akatsuchi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c0/Tsuchikages%27s_Body_Guard_Akatsuchi.png/revision/latest?cb=20151019023046" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Amachi_image1
+:Amachi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Amachi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/be/Amachi%27s_Kaima_Form.png/revision/latest?cb=20150528185034" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ameyuri_Ringo_image1
+:Ameyuri_Ringo_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ameyuri_Ringo ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/9d/Ameyuri_ringo.png/revision/latest?cb=20150803211353" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Anko_Mitarashi_image1
+:Anko_Mitarashi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Anko_Mitarashi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/28/Hidden_Shadow_Snake_Hands.png/revision/latest?cb=20140916141159" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ao_image1
+:Ao_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ao ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d8/Ao%27s_byakugan_activated.png/revision/latest?cb=20150307065539" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Aoba_Yamashiro_image1
+:Aoba_Yamashiro_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Aoba_Yamashiro ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d6/Aoba_great_fireball.png/revision/latest?cb=20150129200446" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Aoi_Rokusho_image1
+:Aoi_Rokusho_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Aoi_Rokusho ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f2/Aoi_Rokusho.png/revision/latest?cb=20150221085046" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Aoi_Rokusho_image2
+:Aoi_Rokusho_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Aoi_Rokusho ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f7/Thunder_God_Sword.png/revision/latest?cb=20150221085929" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ashina_Uzumaki_image1
+:Ashina_Uzumaki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ashina_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/2d/Uzumaki-Senju_clans.png/revision/latest?cb=20120205221306" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Asuma_Sarutobi_image1
+:Asuma_Sarutobi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Asuma_Sarutobi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/89/Asuma_full.png/revision/latest?cb=20160124055358" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Asura_Otsutsuki_image1
+:Asura_Otsutsuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Asura_Otsutsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c0/Amenomihashira.png/revision/latest?cb=20160721141416" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Atsui_image1
+:Atsui_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Atsui ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/33/Darui_Gets_Backup.png/revision/latest?cb=20120705134734" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Baki_image1
+:Baki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Baki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d7/Blade_of_Wind_Disk_1.png/revision/latest?cb=20150821121852" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Black_Zetsu_image1
+:Black_Zetsu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Black_Zetsu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/50/BZetsufull.png/revision/latest?cb=20140528211038" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Blue_B_image1
+:Blue_B_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Blue_B ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/85/Blue_B_and_Gyuki.png/revision/latest?cb=20150214192434" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Boruto_Uzumaki_image1
+:Boruto_Uzumaki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Boruto_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/14/Boruto.png/revision/latest?cb=20160127001307" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Buntan_Kurosuki_image1
+:Buntan_Kurosuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Buntan_Kurosuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/1e/Buntan_Wielding_Kiba.png/revision/latest?cb=20171018101753" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Butsuma_Senju_image1
+:Butsuma_Senju_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Butsuma_Senju ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/02/Hashirama_family.png/revision/latest?cb=20140703222815" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Byakuren_image1
+:Byakuren_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Byakuren ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d2/First_Mizukage.png/revision/latest?cb=20170624184027" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#C_image1
+:C_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :C ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a4/C_full.png/revision/latest?cb=20160324063053" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chino_image1
+:Chino_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Chino ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/80/Chino_Awakens_Ketsury%C5%ABgan.png/revision/latest?cb=20161222183425" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chiyo_image1
+:Chiyo_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Chiyo ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/5a/Sasori%27s_Family.png/revision/latest?cb=20150227214333" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chocho_Akimichi_image1
+:Chocho_Akimichi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Chocho_Akimichi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/90/Chocho%27s_Appearance.png/revision/latest?cb=20170420200109" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Choji_Akimichi_image1
+:Choji_Akimichi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Choji_Akimichi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/5b/Ch%C5%8Dji_timeskip.png/revision/latest?cb=20140804183830" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chojuro_image1
+:Chojuro_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Chojuro ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/61/UNSG_Chojuro.png/revision/latest?cb=20141104031532" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Choza_Akimichi_image1
+:Choza_Akimichi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Choza_Akimichi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/66/Baika_no_Jutsu.png/revision/latest?cb=20160120054450" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Dan_Kato_image1
+:Dan_Kato_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Dan_Kato ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/df/Reika_no_Jutsu.png/revision/latest?cb=20131128131126" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Danzo_Shimura_image1
+:Danzo_Shimura_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Danzo_Shimura ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/21/A_Young_Danzo.png/revision/latest?cb=20160122153458" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Danzo_Shimura_image2
+:Danzo_Shimura_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Danzo_Shimura ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d2/Danzo_full.png/revision/latest?cb=20140807015514" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Darui_image1
+:Darui_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Darui ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ac/Darui%27s_full_body.png/revision/latest?cb=20160302072502" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Deidara_image1
+:Deidara_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Deidara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/4a/Deidara_-_Akatsuki.png/revision/latest?cb=20160623115618" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Dodai_image1
+:Dodai_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Dodai ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/92/Dodai_HDshot.png/revision/latest?cb=20170125161312" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Dosu_Kinuta_image1
+:Dosu_Kinuta_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Dosu_Kinuta ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/12/TeamDosu.png/revision/latest?cb=20150126170450" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ebisu_image1
+:Ebisu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ebisu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e9/Ebisu_fights.png/revision/latest?cb=20130729080926" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#En_Oyashiro_image1
+:En_Oyashiro_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :En_Oyashiro ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/12/En_Oyashiro%27s_Ketsury%C5%ABgan.png/revision/latest?cb=20170106165454" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fugaku_Uchiha_image1
+:Fugaku_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Fugaku_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/9f/Fugaku-KMPFU.png/revision/latest?cb=20150121183643" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fuguki_Suikazan_image1
+:Fuguki_Suikazan_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Fuguki_Suikazan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/31/Fuguki_suikazan.png/revision/latest?cb=20150803211501" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Furui_image1
+:Furui_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Furui ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f9/Death_of_Furui.png/revision/latest?cb=20120112122239" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fu_image1
+:Fu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Fu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6e/F%C5%AB.png/revision/latest?cb=20140811223244" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fu_Yamanaka_image1
+:Fu_Yamanaka_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Fu_Yamanaka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/1d/Fuu_shintenshin.png/revision/latest?cb=20150214202455" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gaara_image1
+:Gaara_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gaara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/0f/Gaara_Part_II.png/revision/latest?cb=20170914045727" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gaara_image2
+:Gaara_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gaara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/49/Gaara_Commander.png/revision/latest?cb=20150218030104" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gari_image1
+:Gari_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gari ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/03/Gari_Anime.png/revision/latest?cb=20160307035105" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gengetsu_Hozuki_image1
+:Gengetsu_Hozuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gengetsu_Hozuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/40/Second_Mizukage-Full.png/revision/latest?cb=20160305013353" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Genma_Shiranui_image1
+:Genma_Shiranui_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Genma_Shiranui ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/07/Gaara_vs_Sasuke.png/revision/latest?cb=20150220194410" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ginkaku_image1
+:Ginkaku_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ginkaku ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/34/Ginkaku%27s_Tools.png/revision/latest?cb=20160702040916" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Guren_image1
+:Guren_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Guren ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/90/Guren.png/revision/latest?cb=20160425181202" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hagoromo_Otsutsuki_image1
+:Hagoromo_Otsutsuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hagoromo_Otsutsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6e/Hagoromo_%C5%8Ctsutsuki_2.png/revision/latest?cb=20160910032321" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hagoromo_Otsutsuki_image2
+:Hagoromo_Otsutsuki_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hagoromo_Otsutsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7c/Hagoromo_full_appearance.png/revision/latest?cb=20150723122554" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Haku_image1
+:Haku_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Haku ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/35/Haku%27s_shinobi_attire.png/revision/latest?cb=20160610212143" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hamura_Otsutsuki_image1
+:Hamura_Otsutsuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hamura_Otsutsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/54/Hamura_Byakugan.png/revision/latest?cb=20160519160109" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hamura_Otsutsuki_image2
+:Hamura_Otsutsuki_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hamura_Otsutsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/4d/Hamura_%C5%8Ctsutsuki.png/revision/latest?cb=20150711133055" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Han_image1
+:Han_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Han ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/3c/Han.png/revision/latest?cb=20180608062806" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hana_Inuzuka_image1
+:Hana_Inuzuka_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hana_Inuzuka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/2c/Haimaru_brothers.png/revision/latest?cb=20140705145936" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hanabi_Hyuga_image1
+:Hanabi_Hyuga_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hanabi_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e8/Hanabi_-_The_Last.png/revision/latest?cb=20141117210138" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hanzo_image1
+:Hanzo_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hanzo ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c7/Hanzo_full_appearance.png/revision/latest?cb=20160419113917" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hashirama_Senju_image1
+:Hashirama_Senju_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hashirama_Senju ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/9d/Hashirama_Senju_full_body.png/revision/latest?cb=20140923174317" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hashirama_Senju_image2
+:Hashirama_Senju_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hashirama_Senju ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/24/Shodai_Hokage.PNG/revision/latest?cb=20100206180921" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hayate_Gekko_image1
+:Hayate_Gekko_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hayate_Gekko ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d9/Hayate_cuts_Baki.png/revision/latest?cb=20150222045527" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hiashi_Hyuga_image1
+:Hiashi_Hyuga_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hiashi_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/da/Hiashi_at_war.png/revision/latest?cb=20150901090810" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hidan_image1
+:Hidan_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hidan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/43/Hidan_-_Akatsuki.png/revision/latest?cb=20160623115949" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Himawari_Uzumaki_image1
+:Himawari_Uzumaki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Himawari_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b8/Himawari_saves_Shukaku.png/revision/latest?cb=20190929214802" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hinata_Hyuga_image1
+:Hinata_Hyuga_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hinata_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/4f/Hinata_p1_render.png/revision/latest?cb=20160124060038" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hinata_Hyuga_image2
+:Hinata_Hyuga_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hinata_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png/revision/latest?cb=20160916060747" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hinata_Hyuga_image3
+:Hinata_Hyuga_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hinata_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/59/Hinata_Hy%C5%ABga_-_Allied_Shinobi_Forces.png/revision/latest?cb=20161111153307" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hinata_Hyuga_image4
+:Hinata_Hyuga_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hinata_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/15/Hinata_Uzumaki.png/revision/latest?cb=20160917122918" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hinata_Hyuga_image5
+:Hinata_Hyuga_image5 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hinata_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d4/Hinata_-_The_Last.png/revision/latest?cb=20160424214508" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hiruzen_Sarutobi_image1
+:Hiruzen_Sarutobi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hiruzen_Sarutobi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d6/Hiruzen_Sarutobi_%28Hokage%29.png/revision/latest?cb=20150611135316" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hiruzen_Sarutobi_image2
+:Hiruzen_Sarutobi_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hiruzen_Sarutobi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/84/Hiruzen_full.png/revision/latest?cb=20140222162152" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hizashi_Hyuga_image1
+:Hizashi_Hyuga_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Hizashi_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f1/Hizashi%27s_Byakugan.png/revision/latest?cb=20150907070915" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ibiki_Morino_image1
+:Ibiki_Morino_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ibiki_Morino ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/61/Ibiki_Morino.png/revision/latest?cb=20150118193506" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ibiki_Morino_image2
+:Ibiki_Morino_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ibiki_Morino ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c3/Ibiki_and_invigilators.png/revision/latest?cb=20150122095737" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Indra_Otsutsuki_image1
+:Indra_Otsutsuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Indra_Otsutsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/bc/Indra%27s_solitude.png/revision/latest?cb=20160722030259" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ino_Yamanaka_image1
+:Ino_Yamanaka_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ino_Yamanaka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e0/Ino_Part_I_full.png/revision/latest?cb=20160108025224" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ino_Yamanaka_image2
+:Ino_Yamanaka_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ino_Yamanaka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/78/Ino_Yamanaka_-_Allied_Shinobi_Forces.png/revision/latest?cb=20161111152947" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ino_Yamanaka_image3
+:Ino_Yamanaka_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ino_Yamanaka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f1/Ino_-_The_Last.png/revision/latest?cb=20160302071654" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Inojin_Yamanaka_image1
+:Inojin_Yamanaka_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Inojin_Yamanaka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d9/Mind_Body_Switch_technique.png/revision/latest?cb=20180802120544" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Iruka_Umino_image1
+:Iruka_Umino_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Iruka_Umino ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/bf/Iruka_full.png/revision/latest?cb=20160610142004" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Iruka_Umino_image2
+:Iruka_Umino_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Iruka_Umino ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c2/Iruka_-_The_Last.png/revision/latest?cb=20141201220927" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ishikawa_image1
+:Ishikawa_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ishikawa ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6b/Shodai_Tsuchikage1.png/revision/latest?cb=20130927065642" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Itachi_Uchiha_image1
+:Itachi_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Itachi_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/bb/Itachi.png/revision/latest?cb=20160125182202" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Itachi_Uchiha_image2
+:Itachi_Uchiha_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Itachi_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/53/Itachi_Using_Genjutsu.png/revision/latest?cb=20150917075124" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Itachi_Uchiha_image3
+:Itachi_Uchiha_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Itachi_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/9d/Itachi_full.png/revision/latest?cb=20160623120232" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Itama_Senju_image1
+:Itama_Senju_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Itama_Senju ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/3e/Itama_ambushed_Uchiha_Clan2.png/revision/latest?cb=20140703222839" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Izumo_Kamizuki_image1
+:Izumo_Kamizuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Izumo_Kamizuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/cb/Izumo_The_Last.png/revision/latest?cb=20141201221316" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Izuna_Uchiha_image1
+:Izuna_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Izuna_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/58/The_dead_body_of_Izuna_Uchiha.PNG/revision/latest?cb=20150207095606" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jinin_Akebino_image1
+:Jinin_Akebino_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Jinin_Akebino ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/4a/Jinin_full.png/revision/latest?cb=20160610220603" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jinpachi_Munashi_image1
+:Jinpachi_Munashi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Jinpachi_Munashi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/62/Jinpachi_full.png/revision/latest?cb=20160304031538" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jiraiya_image1
+:Jiraiya_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Jiraiya ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/5a/Jiraiya_full2.png/revision/latest?cb=20151123194008" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jiraiya_image2
+:Jiraiya_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Jiraiya ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/04/Amphibian_Technique.png/revision/latest?cb=20150207111512" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jiraiya_image3
+:Jiraiya_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Jiraiya ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/50/Sage_mode.png/revision/latest?cb=20150125202353" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jirobo_image1
+:Jirobo_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Jirobo ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/ee/Jir%C5%8Db%C5%8D%27s_Attire.PNG/revision/latest?cb=20160608022006" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jirobo_image2
+:Jirobo_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Jirobo ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/dc/Arhat_fist.png/revision/latest?cb=20160623104109" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jugo_image1
+:Jugo_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Jugo ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e6/Jugo%27s_Level_2_state.png/revision/latest?cb=20140316014554" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Juzo_Biwa_image1
+:Juzo_Biwa_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Juzo_Biwa ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ae/JuzoAkatsuki.png/revision/latest?cb=20160414205121" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kabuto_Yakushi_image1
+:Kabuto_Yakushi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kabuto_Yakushi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/44/Kabuto_appearance.png/revision/latest?cb=20160131015858" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kabuto_Yakushi_image2
+:Kabuto_Yakushi_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kabuto_Yakushi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/5d/Kabuto_war.png/revision/latest?cb=20160131015917" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kabuto_Yakushi_image3
+:Kabuto_Yakushi_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kabuto_Yakushi ;
+               :image "" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kaguya_Otsutsuki_image1
+:Kaguya_Otsutsuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kaguya_Otsutsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/aa/Kaguya_full_appearance.png/revision/latest?cb=20160507231422" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kaguya_Otsutsuki_image2
+:Kaguya_Otsutsuki_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kaguya_Otsutsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/1c/Kaguya%27s_dojutsu.png/revision/latest?cb=20160505125408" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakashi_Hatake_image1
+:Kakashi_Hatake_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakashi_Hatake ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/3c/Kakashi_Hatake_full_%28Younger%29.png/revision/latest?cb=20141002143153" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakashi_Hatake_image2
+:Kakashi_Hatake_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakashi_Hatake ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest?cb=20170628120149" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakashi_Hatake_image3
+:Kakashi_Hatake_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakashi_Hatake ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/2f/Kakashi_full.png/revision/latest?cb=20160424211813" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakashi_Hatake_image4
+:Kakashi_Hatake_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakashi_Hatake ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/1e/Kakashi%27s_Mangeky%C5%8D_Sharingan.png/revision/latest?cb=20141011211403" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakashi_Hatake_image5
+:Kakashi_Hatake_image5 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakashi_Hatake ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/3b/Kakashi_-_The_Last.png/revision/latest?cb=20160124065128" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakashi_Hatake_image6
+:Kakashi_Hatake_image6 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakashi_Hatake ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b6/Hokage_Kakashi.png/revision/latest?cb=20170617162005" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakashi_Hatake_image7
+:Kakashi_Hatake_image7 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakashi_Hatake ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/42/HokageKakashi.png/revision/latest?cb=20160125180959" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakuzu_image1
+:Kakuzu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakuzu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/53/Kakuzu_mugshot.png/revision/latest?cb=20160115192126" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kakuzu_image2
+:Kakuzu_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kakuzu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/57/Kakuzu_-_Akatsuki.png/revision/latest?cb=20160610141911" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kankuro_image1
+:Kankuro_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kankuro ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/74/Kankuro_in_Suna.png/revision/latest?cb=20160513043408" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kankuro_image2
+:Kankuro_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kankuro ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/4b/Kankuro_paint_5.png/revision/latest?cb=20140815212213" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Karin_image1
+:Karin_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Karin ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/72/Karin3.png/revision/latest?cb=20170906102126" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Karin_image2
+:Karin_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Karin ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a4/Karin_full.png/revision/latest?cb=20140805024328" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Karui_image1
+:Karui_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Karui ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/fa/Karui_Beating_Naruto.png/revision/latest?cb=20180428081333" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kiba_Inuzuka_image1
+:Kiba_Inuzuka_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kiba_Inuzuka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/cb/Kiba_Part_2.png/revision/latest?cb=20180124105037" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kiba_Inuzuka_image2
+:Kiba_Inuzuka_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kiba_Inuzuka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7f/Kiba_Inuzuka_-_Allied_Shinobi_Forces.png/revision/latest?cb=20161111153412" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kiba_Inuzuka_image3
+:Kiba_Inuzuka_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kiba_Inuzuka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/72/Kiba_-_The_Last_-.png/revision/latest?cb=20141116043659" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kidomaru_image1
+:Kidomaru_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kidomaru ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6f/Full_Kidomaru.png/revision/latest?cb=20160610133654" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Killer_B_image1
+:Killer_B_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Killer_B ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e5/B_body.png/revision/latest?cb=20160612162308" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kimimaro_image1
+:Kimimaro_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kimimaro ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/1d/Kimimaro_full.png/revision/latest?cb=20151219010544" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kimimaro_image2
+:Kimimaro_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kimimaro ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ab/Shikotsumyaku.png/revision/latest?cb=20150125163439" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kin_Tsuchi_image1
+:Kin_Tsuchi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kin_Tsuchi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/fe/Kin_wielding_senbon.png/revision/latest?cb=20150529130749" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kinkaku_image1
+:Kinkaku_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kinkaku ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/9f/Kinkaku%27s_Tools.png/revision/latest?cb=20160712135416" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kisame_Hoshigaki_image1
+:Kisame_Hoshigaki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kisame_Hoshigaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f7/Kisame_Hoshigaki_full.png/revision/latest?cb=20160304061903" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kizashi_Haruno_image1
+:Kizashi_Haruno_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kizashi_Haruno ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7d/Road_to_Sakura.png/revision/latest?cb=20120726122425" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Konan_image1
+:Konan_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Konan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f2/Konan_full.png/revision/latest?cb=20160302070751" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Konohamaru_Sarutobi_image1
+:Konohamaru_Sarutobi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Konohamaru_Sarutobi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/37/Konohamaru_Sarutobi.png/revision/latest?cb=20170624192530" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Konohamaru_Sarutobi_image2
+:Konohamaru_Sarutobi_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Konohamaru_Sarutobi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/26/Konohamaru_Part_III.png/revision/latest?cb=20180124110624" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Konohamaru_Sarutobi_image3
+:Konohamaru_Sarutobi_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Konohamaru_Sarutobi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/ff/Konohamaru_in_Boruto_movie.png/revision/latest?cb=20170705172438" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kotetsu_Hagane_image1
+:Kotetsu_Hagane_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kotetsu_Hagane ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6c/Kotetsu_The_Last.png/revision/latest?cb=20141201221141" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kurenai_Yuhi_image1
+:Kurenai_Yuhi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kurenai_Yuhi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/cc/Kurenai_full.png/revision/latest?cb=20150224174117" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kushimaru_Kuriarare_image1
+:Kushimaru_Kuriarare_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kushimaru_Kuriarare ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ad/Kushimaru_kuriare.png/revision/latest?cb=20150803211406" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kushina_Uzumaki_image1
+:Kushina_Uzumaki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kushina_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7b/Kushina_Uzumaki_full.png/revision/latest?cb=20150211174044" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ko_Hyuga_image1
+:Ko_Hyuga_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Ko_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/54/Ko%27s_Byakugan.png/revision/latest?cb=20160124041947" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Madara_Uchiha_image1
+:Madara_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Madara_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/95/Hont%C5%8D_no_Yume.png/revision/latest?cb=20140724122152" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Madara_Uchiha_image2
+:Madara_Uchiha_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Madara_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e9/Madara_fullbody.png/revision/latest?cb=20150311024439" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mangetsu_Hozuki_image1
+:Mangetsu_Hozuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mangetsu_Hozuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/17/Mangetsu_hozuki.png/revision/latest?cb=20150803211337" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Matsuri_image1
+:Matsuri_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Matsuri ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/ee/Matsuri_Full_Part_II.png/revision/latest?cb=20150728192439" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mebuki_Haruno_image1
+:Mebuki_Haruno_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mebuki_Haruno ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/93/Kizashi_and_Mebuki.png/revision/latest?cb=20150722114731" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mei_Terumī_image1
+:Mei_Terumī_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mei_Terumī ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/74/Mei_Full.png/revision/latest?cb=20160302063156" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mei_Terumī_image2
+:Mei_Terumī_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mei_Terumī ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b8/Mei_spitting_Lava.png/revision/latest?cb=20150123214637" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mifune_image1
+:Mifune_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mifune ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/26/Mifune_full.png/revision/latest?cb=20160326021413" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Might_Guy_image1
+:Might_Guy_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Might_Guy ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7e/Guy_Sensei.png/revision/latest?cb=20140903014735" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Might_Guy_image2
+:Might_Guy_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Might_Guy ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/ff/Guy_-_The_Last.png/revision/latest?cb=20160425073251" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mikoto_Uchiha_image1
+:Mikoto_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mikoto_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c1/Uchiha%27s.PNG/revision/latest?cb=20090501111914" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Minato_Namikaze_image1
+:Minato_Namikaze_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Minato_Namikaze ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/fd/Team_Minato.png/revision/latest?cb=20150224111657" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Minato_Namikaze_image2
+:Minato_Namikaze_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Minato_Namikaze ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7f/Minato_full.png/revision/latest?cb=20160303005005" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Minato_Namikaze_image3
+:Minato_Namikaze_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Minato_Namikaze ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/32/Minato_%26_Naruto.PNG/revision/latest?cb=20150222111244" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mito_Uzumaki_image1
+:Mito_Uzumaki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mito_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/8d/Mito_and_Kyubi.png/revision/latest?cb=20120205205334" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mizuki_image1
+:Mizuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mizuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/bf/Mizuki_after_being_in_the_prison.png/revision/latest?cb=20160321193249" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mizuki_image2
+:Mizuki_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mizuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/42/Mizuki%27s_Tiger_Transformation.png/revision/latest?cb=20160321190417" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Moegi_Kazamatsuri_image1
+:Moegi_Kazamatsuri_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Moegi_Kazamatsuri ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/0a/Moegi_full.png/revision/latest?cb=20150705132024" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Moegi_Kazamatsuri_image2
+:Moegi_Kazamatsuri_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Moegi_Kazamatsuri ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f6/Water_Release_Water_Hail.png/revision/latest?cb=20180920113710" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mu_image1
+:Mu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Mu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c9/Mu_full.png/revision/latest?cb=20160305040529" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Nagato_image1
+:Nagato_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Nagato ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/2f/Child_Nagato.PNG/revision/latest?cb=20090924184707" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Nagato_image2
+:Nagato_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Nagato ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/33/Yahiko_Turned_Deva.png/revision/latest?cb=20150324174031" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Nagato_image3
+:Nagato_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Nagato ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/3a/Six_Paths_Pain.png/revision/latest?cb=20150131223520" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Nagato_image4
+:Nagato_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Nagato ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/84/Nagato%27s_War_Attire.png/revision/latest?cb=20160623115147" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Naruto_Uzumaki_image1
+:Naruto_Uzumaki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Naruto_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/cd/Naruto_both_parts.png/revision/latest?cb=20150825074135" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Naruto_Uzumaki_image2
+:Naruto_Uzumaki_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Naruto_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6c/Naruto_with_coat.png/revision/latest?cb=20160306073152" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Naruto_Uzumaki_image3
+:Naruto_Uzumaki_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Naruto_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/87/Naruto_-_The_Last.png/revision/latest?cb=20160424204811" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Naruto_Uzumaki_image4
+:Naruto_Uzumaki_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Naruto_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d9/Naruto_epilogue.PNG/revision/latest?cb=20160425063822" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Neji_Hyuga_image1
+:Neji_Hyuga_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Neji_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/25/Neji_body.png/revision/latest?cb=20160304052819" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Neji_Hyuga_image2
+:Neji_Hyuga_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Neji_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b0/Neji_full.png/revision/latest?cb=20160304052450" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Nono_Yakushi_image1
+:Nono_Yakushi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Nono_Yakushi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/22/Child_Kabuto_and_Nono.png/revision/latest?cb=20131024132313" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Obito_Uchiha_image1
+:Obito_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Obito_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/fd/Team_Minato.png/revision/latest?cb=20150224111657" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Obito_Uchiha_image2
+:Obito_Uchiha_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Obito_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/06/Obito_trapped.PNG/revision/latest?cb=20150825143454" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Obito_Uchiha_image3
+:Obito_Uchiha_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Obito_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/0d/Tobi.PNG/revision/latest?cb=20160312115606" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Obito_Uchiha_image4
+:Obito_Uchiha_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Obito_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/14/ObitoWar.png/revision/latest?cb=20160424211245" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Orochimaru_image1
+:Orochimaru_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Orochimaru ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6f/Orochimaru_As_A_Kid.PNG/revision/latest?cb=20111031194810" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Orochimaru_image2
+:Orochimaru_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Orochimaru ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/de/Orochimaru%27s_Original_Attire.png/revision/latest?cb=20160305183353" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Orochimaru_image3
+:Orochimaru_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Orochimaru ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b0/Orochimaru%27s_Akatsuki_Attire.png/revision/latest?cb=20160424212325" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Pakura_image1
+:Pakura_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Pakura ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f2/Scorch_Release.png/revision/latest?cb=20160121002928" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Reto_image1
+:Reto_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Reto ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7c/First_Kazekage.png/revision/latest?cb=20140724121940" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Rin_Nohara_image1
+:Rin_Nohara_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Rin_Nohara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/fa/Rin_full.png/revision/latest?cb=20160215001012" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Rock_Lee_image1
+:Rock_Lee_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Rock_Lee ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d2/Lee_full.png/revision/latest?cb=20160304053740" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Rock_Lee_image2
+:Rock_Lee_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Rock_Lee ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/35/Lee_-_The_Last.png/revision/latest?cb=20160124062826" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Roshi_image1
+:Roshi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Roshi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c7/Roshi_render.png/revision/latest?cb=20160124055110" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sai_image1
+:Sai_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sai ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/75/Sai_full2.png/revision/latest?cb=20151231180402" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sai_image2
+:Sai_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sai ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/8c/Sai_-_Allied_Shinobi_Forces.png/revision/latest?cb=20161111154216" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sai_image3
+:Sai_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sai ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e2/Sai_-_The_Last.png/revision/latest?cb=20160124064224" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sakon_and_Ukon_image1
+:Sakon_and_Ukon_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sakon_and_Ukon ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6c/Full_Sakon.png/revision/latest?cb=20160615042209" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sakon_and_Ukon_image2
+:Sakon_and_Ukon_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sakon_and_Ukon ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7a/Sakon_and_Ukon_Curse_Mark_2.png/revision/latest?cb=20150827054320" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sakumo_Hatake_image1
+:Sakumo_Hatake_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sakumo_Hatake ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/02/Sakumo_and_Kakashi.png/revision/latest?cb=20150604231622" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sakura_Haruno_image1
+:Sakura_Haruno_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sakura_Haruno ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/30/Sakura_Part_I.png/revision/latest?cb=20160323013151" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sakura_Haruno_image2
+:Sakura_Haruno_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sakura_Haruno ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/0f/Sakura_Haruno_Shipp%C5%ABden.png/revision/latest?cb=20100610202748" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sakura_Haruno_image3
+:Sakura_Haruno_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sakura_Haruno ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/0a/Sakura_Haruno_-_Allied_Shinobi_Forces.png/revision/latest?cb=20161111154320" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sakura_Haruno_image4
+:Sakura_Haruno_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sakura_Haruno ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/44/Sakura_-_The_Last.png/revision/latest?cb=20160424210418" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Samui_image1
+:Samui_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Samui ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a3/Samui_full_body.png/revision/latest?cb=20160603072851" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sarada_Uchiha_image1
+:Sarada_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sarada_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/01/Sarada.png/revision/latest?cb=20160127001315" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasori_image1
+:Sasori_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasori ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/eb/Sasori_Before_Transformation.png/revision/latest?cb=20160218115439" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasori_image2
+:Sasori_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasori ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d1/Sasori%27s_Sand_Clone.PNG/revision/latest?cb=20160103185241" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasori_image3
+:Sasori_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasori ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/54/Sasori_-_Akatsuki.png/revision/latest?cb=20160426003853" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasori_image4
+:Sasori_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasori ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/65/Puppet_Sasori.png/revision/latest?cb=20140825150614" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasuke_Uchiha_image1
+:Sasuke_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasuke_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d2/Sasuke_child.png/revision/latest?cb=20151220050713" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasuke_Uchiha_image2
+:Sasuke_Uchiha_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasuke_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/51/Sasuke_Part_I.png/revision/latest?cb=20151231174019" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasuke_Uchiha_image3
+:Sasuke_Uchiha_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasuke_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b2/Sasuke_Exams.png/revision/latest?cb=20141104203132" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasuke_Uchiha_image4
+:Sasuke_Uchiha_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasuke_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/45/Sasuke_timeskip.png/revision/latest?cb=20151231174000" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasuke_Uchiha_image5
+:Sasuke_Uchiha_image5 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasuke_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/38/Sasuke_-_Rinnegan.png/revision/latest?cb=20141217204721" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasuke_Uchiha_image6
+:Sasuke_Uchiha_image6 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sasuke_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f9/Sasuke_epilogue.PNG/revision/latest?cb=20160425063207" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shibi_Aburame_image1
+:Shibi_Aburame_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shibi_Aburame ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e2/Shibi_fighting.png/revision/latest?cb=20180801035814" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikadai_Nara_image1
+:Shikadai_Nara_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shikadai_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/64/Shikadai%27s_Appearance.png/revision/latest?cb=20170420155431" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikaku_Nara_image1
+:Shikaku_Nara_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shikaku_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ad/Shikaku_Nara_battle_attire.png/revision/latest?cb=20140612082629" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikaku_Nara_image2
+:Shikaku_Nara_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shikaku_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/08/Shikaku-Invasion.png/revision/latest?cb=20100609021350" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikamaru_Nara_image1
+:Shikamaru_Nara_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shikamaru_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/39/Shikamaru_Chunin_Part_I.png/revision/latest?cb=20160425071835" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikamaru_Nara_image2
+:Shikamaru_Nara_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shikamaru_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/9a/Shikamaru_Nara.png/revision/latest?cb=20180701024126" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikamaru_Nara_image3
+:Shikamaru_Nara_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shikamaru_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/42/Shikamaru_full.png/revision/latest?cb=20160425073602" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikamaru_Nara_image4
+:Shikamaru_Nara_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shikamaru_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/55/Shikamaru_Part_III.png/revision/latest?cb=20180919100738" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikamaru_Nara_image5
+:Shikamaru_Nara_image5 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shikamaru_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7d/Shikamaru_movie.png/revision/latest?cb=20170514151103" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shinki_image1
+:Shinki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shinki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/5a/ShinkiB.png/revision/latest?cb=20160810095603" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shino_Aburame_image1
+:Shino_Aburame_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shino_Aburame ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a7/Shino_p1.png/revision/latest?cb=20160425065309" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shino_Aburame_image2
+:Shino_Aburame_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shino_Aburame ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e1/Shino_Aburame_P2.png/revision/latest?cb=20160927065621" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shino_Aburame_image3
+:Shino_Aburame_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shino_Aburame ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/8b/Shino_Aburame_-_Allied_Shinobi_Forces.png/revision/latest?cb=20161111153204" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shino_Aburame_image4
+:Shino_Aburame_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shino_Aburame ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/63/Shino_-_The_Last_-.png/revision/latest?cb=20170630205840" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shino_Aburame_image5
+:Shino_Aburame_image5 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shino_Aburame ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/3b/Shino_part_III.png/revision/latest?cb=20171213114136" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shisui_Uchiha_image1
+:Shisui_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shisui_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/45/Shisui-Full.png/revision/latest?cb=20160305051333" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shisui_Uchiha_image2
+:Shisui_Uchiha_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shisui_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/3a/Shisui_gives_his_eye.png/revision/latest?cb=20131121123430" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shizune_image1
+:Shizune_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Shizune ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/59/Shizune_full.png/revision/latest?cb=20160225181824" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Suigetsu_Hozuki_image1
+:Suigetsu_Hozuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Suigetsu_Hozuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e2/Suigetsu_body.png/revision/latest?cb=20160610211128" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sumire_Kakei_image1
+:Sumire_Kakei_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Sumire_Kakei ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/91/Sumire_Boruto_series.png/revision/latest?cb=20170705173038" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tayuya_image1
+:Tayuya_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tayuya ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d3/Full_Tayuya.png/revision/latest?cb=20160612154236" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tayuya_image2
+:Tayuya_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tayuya ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/66/Tayuya_Curse_Mark_2.png/revision/latest?cb=20160623102403" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Temari_image1
+:Temari_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Temari ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/67/Temari_Part_1.png/revision/latest?cb=20160109010732" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Temari_image2
+:Temari_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Temari ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b2/Temari_Part_II.png/revision/latest?cb=20180131102417" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Temari_image3
+:Temari_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Temari ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/79/Temari_-_Allied_Shinobi_Forces.png/revision/latest?cb=20161111153620" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Temari_image4
+:Temari_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Temari ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/35/Temari_Part_III.png/revision/latest?cb=20180207102345" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Temari_image5
+:Temari_image5 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Temari ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/71/Temari_-_The_Last_-.png/revision/latest?cb=20141116050837" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tenten_image1
+:Tenten_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tenten ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/da/Tenten_Part_I.png/revision/latest?cb=20150321090834" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tenten_image2
+:Tenten_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tenten ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/02/Tenten_Part_II.png/revision/latest?cb=20170716135355" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tenten_image3
+:Tenten_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tenten ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/0d/Tenten_-_Allied_Shinobi_Forces.png/revision/latest?cb=20161111154108" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tenten_image4
+:Tenten_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tenten ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ad/Tenten_Part_III.png/revision/latest?cb=20180510115042" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tenten_image5
+:Tenten_image5 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tenten ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/bd/Tenten_-_The_Last_-.png/revision/latest?cb=20160425072842" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Third_Kazekage_image1
+:Third_Kazekage_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Third_Kazekage ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/8f/Third_Kazekage%27s_Attire.png/revision/latest?cb=20160421214846" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tobi_image1
+:Tobi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tobi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d0/Spiral_Zetsu_full.png/revision/latest?cb=20151203094547" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tobirama_Senju_image1
+:Tobirama_Senju_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tobirama_Senju ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d2/Tobirama_Senju_full.png/revision/latest?cb=20140923174659" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Torune_Aburame_image1
+:Torune_Aburame_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Torune_Aburame ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a6/Torune_unmasked.png/revision/latest?cb=20110210145636" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tsume_Inuzuka_image1
+:Tsume_Inuzuka_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tsume_Inuzuka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b4/Tsume_and_Kuromaru.png/revision/latest?cb=20141114201407" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tsunade_image1
+:Tsunade_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tsunade ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/ce/Tsunade_full.png/revision/latest?cb=20160701085325" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tsunade_image2
+:Tsunade_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Tsunade ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/aa/Tsunade_as_Hokage.PNG/revision/latest?cb=20150201183644" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Udon_Ise_image1
+:Udon_Ise_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Udon_Ise ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/12/Udon_full.png/revision/latest?cb=20150705131351" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Utakata_image1
+:Utakata_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Utakata ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/8b/Utakata_full.png/revision/latest?cb=20160124054811" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#White_Zetsu_image1
+:White_Zetsu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :White_Zetsu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/27/WZfull.png/revision/latest?cb=20160301073857" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Yagura_Karatachi_image1
+:Yagura_Karatachi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Yagura_Karatachi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/93/Obito_Confronts_Yagura.png/revision/latest?cb=20160818112833" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Yamato_image1
+:Yamato_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Yamato ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7c/Yamato_full.png/revision/latest?cb=20160610222018" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Yamato_image2
+:Yamato_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Yamato ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/48/Yamato_Part_III.png/revision/latest?cb=20180920062211" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Yashamaru_image1
+:Yashamaru_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Yashamaru ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d2/S%C5%8Dsh%C5%ABjin.png/revision/latest?cb=20130124180955" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Yoroi_Akado_image1
+:Yoroi_Akado_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Yoroi_Akado ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/94/Yoroi_Akado_anime.png/revision/latest?cb=20150528191344" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Yugito_Nii_image1
+:Yugito_Nii_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Yugito_Nii ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/93/Yugito_Full.png/revision/latest?cb=20151218040206" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Yugao_Uzuki_image1
+:Yugao_Uzuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Yugao_Uzuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ae/Y%C5%ABgao_Uzuki_In_Her_Anbu_Uniform.PNG/revision/latest?cb=20150123165225" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Zabuza_Momochi_image1
+:Zabuza_Momochi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Zabuza_Momochi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a0/Zabuza_full.png/revision/latest?cb=20160610212353" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Zetsu_image1
+:Zetsu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Zetsu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e2/Zetsu_dividing.png/revision/latest?cb=20151004011115" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Onoki_image1
+:Onoki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Onoki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/ec/Onoki_full.png/revision/latest?cb=20150301200152" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kagami_Uchiha_image1
+:Kagami_Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Kagami_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/49/Kagami.png/revision/latest?cb=20180524064855" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Manda_image1
+:Manda_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Manda ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6f/Manda.png/revision/latest?cb=20160623114807" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#White_Snake_Sage_image1
+:White_Snake_Sage_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :White_Snake_Sage ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/4/45/Hakuja_Sennin.png/revision/latest?cb=20131010114704" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gamabunta_image1
+:Gamabunta_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gamabunta ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/84/Gamabunta.png/revision/latest?cb=20160623114719" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gamakichi_image1
+:Gamakichi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gamakichi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/fa/Team_7_summons.png/revision/latest?cb=20140821154222" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gamatatsu_image1
+:Gamatatsu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gamatatsu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f9/Toads_Part_II.PNG/revision/latest?cb=20090430112109" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gamahiro_image1
+:Gamahiro_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gamahiro ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b8/Gamahiro_fourth_World_War.png/revision/latest?cb=20170327065936" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gamaken_image1
+:Gamaken_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gamaken ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e7/Exploding_Sasumata_Attack_1.png/revision/latest?cb=20150728151708" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gamamaru_image1
+:Gamamaru_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gamamaru ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e3/The_Great_Toad_Sage.PNG/revision/latest?cb=20170323052654" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Gerotora_image1
+:Gerotora_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Gerotora ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/36/Gerotora_full.png/revision/latest?cb=20110723150323" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Katsuyu_image1
+:Katsuyu_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToCharacter :Katsuyu ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/6b/Katsuyu.png/revision/latest?cb=20160623114853" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Inuzuka_image1
+:Inuzuka_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToClan :Inuzuka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/77/Inuzuka_Ichizoku.png/revision/latest?cb=20120618122351" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akimichi_image1
+:Akimichi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToClan :Akimichi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/0e/Akimichi_clan.png/revision/latest?cb=20150822041719" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Uchiha_image1
+:Uchiha_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToClan :Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a3/Uchiha_Clan.png/revision/latest?cb=20150127175957" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Aburame_image1
+:Aburame_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToClan :Aburame ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a4/Aburame_clan.png/revision/latest?cb=20180729102903" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Uzumaki_image1
+:Uzumaki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToClan :Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/2d/Uzumaki-Senju_clans.png/revision/latest?cb=20120205221306" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Senju_image1
+:Senju_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToClan :Senju ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7f/Senju_Clan.png/revision/latest?cb=20150211140045" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sarutobi_image1
+:Sarutobi_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToClan :Sarutobi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/19/Great_Flame_Technique.png/revision/latest?cb=20150807092132" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hyuga_image1
+:Hyuga_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToClan :Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/77/Hy%C5%ABga_Ichizoku.png/revision/latest?cb=20150207060203" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Byakugan_image1
+:Byakugan_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToKekkeiGenkai :Byakugan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/18/Byakugan.png/revision/latest?cb=20150314104523" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jogan_image1
+:Jogan_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToKekkeiGenkai :Jogan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/8b/Boruto%27s_Eye.png/revision/latest?cb=20170406113713" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mangekyo_Sharingan_image1
+:Mangekyo_Sharingan_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToKekkeiGenkai :Mangekyo_Sharingan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e0/Mangeky%C5%8D_Sharingan_Kakashi.svg/revision/latest/scale-to-width-down/120?cb=20140427104242" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mangekyo_Sharingan_image2
+:Mangekyo_Sharingan_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToKekkeiGenkai :Mangekyo_Sharingan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/2/22/Mangeky%C5%8D_Sharingan_Madara.svg/revision/latest/scale-to-width-down/120?cb=20110803161535" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mangekyo_Sharingan_image3
+:Mangekyo_Sharingan_image3 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToKekkeiGenkai :Mangekyo_Sharingan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/86/Mangeky%C5%8D_Sharingan_Izuna.svg/revision/latest/scale-to-width-down/120?cb=20110803151423" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mangekyo_Sharingan_image4
+:Mangekyo_Sharingan_image4 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToKekkeiGenkai :Mangekyo_Sharingan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/55/Mangeky%C5%8D_Sharingan_Sasuke.svg/revision/latest/scale-to-width-down/120?cb=20171226184019" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mangekyo_Sharingan_image5
+:Mangekyo_Sharingan_image5 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToKekkeiGenkai :Mangekyo_Sharingan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/81/Mangeky%C5%8D_Sharingan_Shisui.svg/revision/latest/scale-to-width-down/120?cb=20110803165331" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Rinnegan_image1
+:Rinnegan_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToKekkeiGenkai :Rinnegan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/7/7d/Sasuke%27s_Rinnegan.png/revision/latest?cb=20160909022555" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akatsuki_image1
+:Akatsuki_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToOrganization :Akatsuki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/98/Itachi_Joins_Akatsuki.png/revision/latest?cb=20160408022857" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Root_image1
+:Root_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToOrganization :Root ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a5/Root_chambers.png/revision/latest?cb=20100520211417" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Root_image2
+:Root_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToOrganization :Root ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/68/Faces_of_Root.png/revision/latest?cb=20111229120206" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Allied_Shinobi_Forces_image1
+:Allied_Shinobi_Forces_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToOrganization :Allied_Shinobi_Forces ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/92/Headband.png/revision/latest?cb=20180417191613" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Allied_Shinobi_Forces_image2
+:Allied_Shinobi_Forces_image2 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToOrganization :Allied_Shinobi_Forces ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/86/Allied_Shinobi_Forces_Battalion.png/revision/latest?cb=20160305220712" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Seven_Ninja_Swordsmen_of_the_Mist_image1
+:Seven_Ninja_Swordsmen_of_the_Mist_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToOrganization :Seven_Ninja_Swordsmen_of_the_Mist ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/b/b5/Previous_Swordsmen_of_the_Mist.png/revision/latest?cb=20150709140241" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Konohagakure_image1
+:Konohagakure_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToVillage :Konohagakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/3/34/Konohagakure.png/revision/latest?cb=20160728115517" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kirigakure_image1
+:Kirigakure_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToVillage :Kirigakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/66/Kirigakure.png/revision/latest?cb=20171108153805" .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sunagakure_image1
+:Sunagakure_image1 rdf:type owl:NamedIndividual ,
+                    :Image ;
+               :belongsToVillage :Sunagakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/fe/Kazekage_Residence.PNG/revision/latest?cb=20150123213239" .
+
+

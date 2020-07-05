@@ -1,0 +1,302 @@
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Inuzuka
+:Inuzuka rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Inuzuka" ;
+               :belongsToVillage :Konohagakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/17/Inuzuka_Symbol.svg/revision/latest?cb=20150515013817" ;
+               :hasImage :Inuzuka_image1 ;
+               :hasMember :Akamaru ,
+                         :Three_Haimaru_Brothers ,
+                         :Hana_Inuzuka ,
+                         :Kiba_Inuzuka ,
+                         :Tsume_Inuzuka ,
+                         :Kuromaru ;
+               :overview "The members are given their own canine partner(s) when they reach a certain age. Thereafter, the shinobi and their dog(s) are practically inseparable. The shinobi and canine allies fight using Cooperation Ninjutsu, such as the Fang Passing Fang or Fang Rotating Fang techniques amongst others, that take advantage of their teamwork and their sharp claws and teeth. The clan members are also able to communicate with canines even if unlike Kuromaru, the dogs cannot talk. The members of this clan, much like their canine partners, have greatly enhanced senses, especially their sense of smell. By concentrating chakra to their noses, this sense is amplified to an even greater extent allowing the user to be able to detect, track and monitor targets from a fairly long distance away. The clan's fighting style primarily revolves around their enhanced speed, strength and agility granted by the Four Legs Technique and other canine-based attacks, in conjunction with the tactical advantages granted by their heightened senses." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Otsutsuki
+:Otsutsuki rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Ōtsutsuki" ;
+               :hasKekkeiGenkai :Byakugan ,
+                         :Tenseigan ,
+                         :Sharingan ,
+                         :Mangekyo_Sharingan ,
+                         :Rinnegan ,
+                         :Wood ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/cb/%C5%8Ctsutsuki_Symbol.svg/revision/latest?cb=20180407042123" ;
+               :hasMember :Kanna ,
+                         :Asura_Otsutsuki ,
+                         :Hagoromo_Otsutsuki ,
+                         :Hamura_Otsutsuki ,
+                         :Indra_Otsutsuki ,
+                         :Kaguya_Otsutsuki ;
+               :overview "For countless eons, the Ōtsutsuki clan have been travelling throughout dimensions seeking out worlds to plant Ten-Tails into. Once planted, it grows into a God Tree with its roots spreading across the planet to suck chakra from all its inhabitant's lives, resulting in everything dying and it bearing a large fruit for the Ōtsutsuki to consume in order for them to gain power and prolonged lives. Once harvested, as they no longer need the planet, they move to another to repeat the process. The clan sent Kaguya and Isshiki to Earth to collect and prepare its chakra for them. By consuming the planet's Chakra Fruit, Kaguya used the chakra she gained and the Infinite Tsukuyomi to end the constant war of Earth's human population, resulting in world peace and her being initially viewed as a benevolent deity.  Foreseeing the consequences of consuming the Chakra fruit against her clan's wishes, she converted the imprisoned Infinite Tsukuyomi victims into a White Zetsu Army in preparation for the arrival of other clansmen looking to steal her chakra; an act which lead to humans viewing her as a demon instead. Meanwhile, Isshiki's fate became largely unknown during those events, but his chakra survived in Jigen, leader of the mysterious organization Kara, and his future successor Kawaki in the form of Kāma. In time, Kaguya gave birth to twin sons: Hagoromo and Hamura, both of whom were born with chakra of their own. Kaguya grew jealous that they inherited some of her power and so merged with the Earth's God Tree to try and take it back, in the process becoming a monster called the Ten-Tails. The beast terrorised the world until Hagoromo and Hamura defeated it with their Six Paths — Chibaku Tensei, thus creating the Moon. The Ten-Tails' chakra was sealed into Hagoromo while its husk, the Demonic Statue of the Outer Path, was hidden away and sealed on the Moon, in order to prevent the Ten-Tails' revival. Before being sealed, Kaguya sent a manifestation of her will, Black Zetsu to find a way to revive her. Leaving leadership of the clan to Hamura, he decreed that the clan would stand guard over the Demonic Statue. Hagoromo and his brother's direct bloodline stayed on Earth, the latter which inherited the Byakugan and became the Hyūga clan, while Hamura immigrated the clan to the moon, maintaining order and stability with the power of his Tenseigan. Believing chakra was a power that linked everything in the world, Hagoromo set out to spread the message to the people of the land, during which his teachings became known as ninshū. Towards the end of his life, he divided his chakra into the nine tailed beasts, his way of ensuring that the Ten-Tails and thus Kaguya would never be reborn. Before he died, he passed over his eldest son, Indra, and entrusted his mission of peace to his youngest son, Asura. Black Zetsu manipulated Indra's jealousy toward Asura, resulting in the two brothers' confrontation being passed on to their decendants by the pair being reincarnated. Having spent the remainder of his life overlooking Earth, Hamura entrusted his Ōtsutsuki clansmen with a celestial degree watching over humanity before his passing. Afterwards, the people of the moon treated Hamura's Tenseigan as a treasure, enshrining it as a religious object and devoting a plan to eternally preserving it with the Byakugan of newborn members taken and put into the vessel to power it. The millennium that passed involved the Moon's branch family misinterpreting Hamura's celestial decree, leading to them believing he wanted his descendants to destroy Earth in the event the world Hagoromo fashioned lead astray. The main family warred against the branch family over their different interpretations and eventually annihilated the former using the weaponized Tenseigan. On Earth, humans along with Ōtsutsuki's descendants such as the Senju, Uzumaki, Uchiha, and Kaguya clan utilised Indra's invention of ninjutsu to shape the shinobi world. A thousand years after the Ten-Tails' defeat, the Moon's branch family dwindled to only Toneri, who was aware that the Demonic Statue was stolen and the Ten-Tails was revived during the Fourth Shinobi World War. The event ultimately lead to Kaguya being temporarily revived, but was soon sealed along with Black Zetsu in another dimension by the reincarnations of Asura and Indra. Two years later, as his clan had concluded that Earth's shinobi will destroy the world's peace and order, he deemed Hagoromo's world a failure, and began to act on Hamura's mistranslated celestial decree. Unable to reach an agreement with the Hyūga Clan, Toneri resorted to kidnapping the clan's heir and taking her Byakugan in order to awaken the Tenseigan. The act caught the attention of Konohagakure, leading to a team discovering his intentions and defeating him. After becoming aware of Hamura's true decree, he vowed to remain in self-imposed exile on the Moon in order to stand vigil over the Earth as a solitary guardian. Years later during the Seventh Hokage's era, Momoshiki and Kinshiki in another world became aware of abnormalities in Kaguya's world, prompting them to inform their clan and investigate the situation. Though they weren't aware of the fate of Kaguya or her chakra, by Urashiki's account they saw everything including the Byakugan Princess incident on the Moon. They deemed Kaguya a disgrace and traitor for growing an attachment to Earth and taking up arms against them. By the time Momoshiki and Kinshiki were defeated, Konoha had discovered four separate Ōtsutsuki clan ruins during their investigation of the clan. Sometime afterwards, Konoha had discovered the clan's time-traveling artifact Karasuki, which Urashiki took in a final bid at stealing the Nine Tails' chakra from the past, only for him to meet his end." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akimichi
+:Akimichi rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Akimichi" ;
+               :belongsToVillage :Konohagakure ;
+               :hasLeader :Choji_Akimichi ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/6/63/Akimichi_Symbol.svg/revision/latest?cb=20110330225002" ;
+               :hasImage :Akimichi_image1 ;
+               :hasMember :Chocho_Akimichi ,
+                         :Choji_Akimichi ,
+                         :Choza_Akimichi ,
+                         :Karui ;
+               :overview "Members of the clan possess great physical strength and are able to quickly convert calories into chakra, which they then use in their various secret techniques. Most of these techniques rapidly consume the user's chakra during use, and maintaining them during a prolonged battle can be tiring. For this reason the Akimichi have high chakra levels and eat a lot in order to build up or replenish their chakra reserves. As a tribute, members of the clan wear the kanji for \"food\" (shoku) on the their clothing. If standard calories aren't enough for a battle, Akimichi can use the clan's Three Coloured Pills to convert excess fat into chakra, at the cost of one's health. Many Akimichi use a bō as their weapon of choice. These have the ability to lengthen in proportion to their wielder's size. These weapons also have small appendages at the top of them. These clan members have all also been depicted with markings of sorts on their cheeks and most of them have been seen wearing plate armour, both with and without flak jackets. The Akimichi clan has a special relationship with the Nara and Yamanaka clan. For generations, members of these three families have formed \"Ino–Shika–Chō\" trios, named after the first part of the names of the members with the Akimichi members being the \"Chō\" in the trio. To strengthen the unity between the three clans, a member of the Sarutobi clan will give them special earrings to present to each generation head when they are promoted to chūnin after which they will swear their oaths. The earrings also symbolise that they are considered adults by their respective clans." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Uchiha
+:Uchiha rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Uchiha" ;
+               :belongsToVillage :Konohagakure ;
+               :hasKekkeiGenkai :Sharingan ,
+                         :Mangekyo_Sharingan ;
+               :hasLeader :Fugaku_Uchiha ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c3/Uchiha_Symbol.svg/revision/latest?cb=20150323000713" ;
+               :hasImage :Uchiha_image1 ;
+               :hasMember :Sakura_Haruno ,
+                         :Fugaku_Uchiha ,
+                         :Itachi_Uchiha ,
+                         :Inabi_Uchiha ,
+                         :Izuna_Uchiha ,
+                         :Kagami_Uchiha ,
+                         :Madara_Uchiha ,
+                         :Mikoto_Uchiha ,
+                         :Obito_Uchiha ,
+                         :Sarada_Uchiha ,
+                         :Sasuke_Uchiha ,
+                         :Shisui_Uchiha ,
+                         :Tajima_Uchiha ;
+               :overview "The Uchiha are descendants of Indra Ōtsutsuki, the elder son of Hagoromo Ōtsutsuki. Through Indra, the Uchiha inherited Hagoromo's \"eyes\", granting them powerful spiritual energy and chakra. As part of the so-called \"Curse of Hatred\" first displayed by Indra, Uchiha are subject to powerful emotions: these emotions typically start as love for a friend or family member that then become overpowering hatred when the object of their love is lost. This loss, whether actually experienced or merely threatened, awakens an Uchiha's Sharingan. It is due to the Sharingan that the Uchiha have received much of their fame and notoriety. The Uchiha have been fighting the Senju clan for centuries, a rivalry that traces back to the days of Indra and his younger brother, Asura. When the Sage of Six Paths was dying, he selected Asura as his successor, believing Asura's desire for peace through love was better than Indra's peace through power. Indra, driven by his Curse of Hatred, fought Asura to claim what he believed was his birthright. The Uchiha and Senju, descendants of Indra and Asura respectively, continued their battle through the centuries, though none still remembered this reason for their conflict. By the time of the Warring States Period, the Uchiha and Senju had emerged as the strongest shinobi clans in the world. When one of the fledgling countries of the era would hire the Uchiha to fight in their wars, the opposing side would hire the Senju. The constant warfare between their clans only fuelled their hatred, with all Uchiha owing the death of a loved one to a Senju and vice versa. But centuries of conflict began to wear on members of the clans; Madara Uchiha and Hashirama Senju met as children and became friends, bonding over their disapproval of the combat and death that they and their younger brothers were constantly subjected to and dreaming of a time when children wouldn't need to fight. Unable to do anything about the world at their age, Madara turned away from their dreams. Madara and Hashirama continued to face each other in battle over the coming years. Driven by his desire to defeat Hashirama and through competition with his younger brother, Izuna, Madara became the first Uchiha to awaken his Mangekyō Sharingan. With its increased power he took control of the Uchiha. Hashirama, by then leader of the Senju, tried to use their positions to broker peace between them and finally achieve their childhood dreams. Despite growing interest in peace amongst the Uchiha, Madara was unwilling to agree to peace after Izuna was killed by Hashirama's brother, Tobirama. Using Izuna's eyes to acquire \"eternal\" Mangekyō, Madara challenged the Senju for supremacy one final time. He was defeated, but even then refused Hashirama's offer of peace, insisting that Hashirama kill himself first. When Hashirama agreed to these terms, Madara was moved to accept, withdrawing his request for Hashirama's death. They unified with Senju and made a pact with the Land of Fire to create a hidden village within its borders, what would become Konohagakure. Other clans settled in Konoha to share their peace and Konoha's model was adopted across the shinobi world, ending the turmoil of the era. When it came time to select Konoha's First Hokage, Konoha's leader, the villagers selected Hashirama. Madara interpreted this as the first step in the Senju's supremacy over the Uchiha and tried to rally his clan to take control of the village. Weary of the fighting, the Uchiha ignored him, prompting him to leave the village. He later returned, challenging Hashirama at what would become the Valley of the End and dying in battle. Hashirama did not wish for Madara's actions to be held against the rest of the Uchiha, a wish that was not followed: his successor as Hokage, Tobirama, was wary of the Uchiha, believing they could never be convinced to fully commit to Konoha's best interests. For this reason he created the Konoha Military Police Force which he left the Uchiha in charge of, officially as a sign of good faith but what many Uchiha interpreted as the start of their clan's isolation from Konoha's affairs. As the decades passed, a growing number of Uchiha came to believe that Madara had been right to fear ostracism from the Senju. During the Nine-Tailed Demon Fox's Attack, the Uchiha were absent in the village's defence. Because of this and the Sharingan's known ability to control the Nine-Tails, Konoha's government came to suspect an Uchiha's involvement in the attack. Being regarded with such scepticism despite their years of service to the village convinced most remaining Uchiha that Madara had been right. Under the leadership of Fugaku Uchiha, the Uchiha began plotting a coup d'état to overthrow the Third Hokage and his administration. They strategically placed some of their members within the Anbu in order to spy on Konoha, but some of these very spies disagreed with the Uchiha's plans, believing an Uchiha coup would only begin a world war. Shisui Uchiha tried to use his Kotoamatsukami to force the Uchiha to stop their plans, but he was prevented from doing so by Danzō Shimura. Danzō after that approached Itachi Uchiha, a longtime double agent for Konoha, and gave him an ultimatum: allow the Uchiha to carry out their coup, inevitably ending with the eradication of all Uchiha, or Itachi could wipe out the Uchiha before they had the chance, and in exchange he could spare his younger brother, Sasuke. Itachi chose the latter. Before assassinating his clan, Itachi sought out the help of Tobi, who he believed to be Madara Uchiha. In a single night, Itachi and Tobi wiped out the entire Uchiha clan, with Itachi taking responsibility of killing his parents. When he was discovered by Sasuke, Itachi pretended to be solely responsible for the attack, concealing Konoha's involvement and the fact that he did everything for Sasuke's safety. Overwhelmed with grief for killing his family, Itachi wanted Sasuke to take revenge against him, and to do that, he began pushing Sasuke to get strong enough to kill him. In the meantime, he left Sasuke under the Third Hokage's care, due to the fact the Third had long desired a peaceful resolution to the Uchiha's grievances. Only three Uchiha survived their clan's downfall: Itachi, though publicly acting as a criminal by joining Akatsuki, continued serving Konoha for the rest of his life until finally dying while fighting Sasuke; Sasuke, at Itachi's insistence, began seeking power at any cost so that he could someday kill Itachi, a pursuit that drove him to eventually defect from Konoha and become an international criminal; Tobi, real name Obito Uchiha, kept to the shadows for many years following his apparent death during the Third Shinobi World War, only taking public actions after Itachi's death so that he can gain Sasuke's assistance during the Fourth Shinobi World War. From learning from Obito about what Konoha forced Itachi to do, Sasuke initially decides to destroy Konoha to take revenge. When he's able to talk with a reincarnated Itachi, however, he changes his mind, as Konoha's destruction would make all that Itachi sacrificed meaningless. During the Fourth Shinobi World War, Madara Uchiha is temporarily brought back to life. He and Obito join forces in trying to use the Ten-Tails to enslave the world with the Infinite Tsukuyomi. After learning the truth from Itachi, Sasuke opposes them and joins forces with the Allied Shinobi Forces, and Obito, in time, also sides against Madara. However, after being redeemed, Obito gives his life to end the war and Madara dies shortly afterwards, leaving Sasuke the last surviving Uchiha. Following his subsequent battle with Naruto, Sasuke is redeemed and escapes the Curse of Hatred that plagued the Uchiha for so long. Despite his years of criminal actions, his contributions to the Alliance's victory in the Fourth Shinobi World War were enough for him to be pardoned for his crimes. Years later, Sasuke marries Sakura Haruno and together they have a daughter, Sarada, thus restarting the Uchiha line. At some point, selective information regarding Sasuke's history became restricted from the general public, requiring special permits for consultation. An experiment of Orochimaru, Shin, creates numerous clones of himself that all naturally possess Sharingan. Shin planned to use them to form his own pure line of the Uchiha clan, but his mistreatment of his clones causes them to turn against him and kill him. The clones settle in Konoha afterwards." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hozuki
+:Hozuki rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Hōzuki" ;
+               :belongsToVillage :Kirigakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/9/9b/H%C5%8Dzuki_Symbol.svg/revision/latest?cb=20110114133308" ;
+               :hasMember :Suigetsu_Hozuki ,
+                         :Gengetsu_Hozuki ,
+                         :Mangetsu_Hozuki ;
+               :overview "The Hōzuki Clan (Hōzuki Ichizoku) is a group of ninja that settled in Kirigakure after the ending of the Warring States Period. The members of this clan possess the ability to turn their bodies into liquid state using the Hydrification Technique. This ability however seems to require that they stay well hydrated at all times and as such at least two known members are known to carry water bottles around with them. Mangetsu and Suigetsu are very gifted swordsmen, and are known as the Second Coming of the Demon (Kijin no Sairai). It has also produced at least one Mizukage of the village." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kamizuru
+:Kamizuru rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Kamizuru" ;
+               :belongsToVillage :Iwagakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/ed/Kamizuru_Clan.PNG/revision/latest?cb=20150508130306" ;
+               :hasMember :Ishikawa ,
+                         :Kurotsuchi ,
+                         :Onoki ;
+               :overview "Years before the start of the series, they led an attempted invasion by Iwa of Konohagakure, only to be repelled and largely killed by Konoha's more experienced Aburame clan. The Kamizuru were so badly defeated that they lost their status and respect in Iwa and their numbers began to dwindle. Years later, the last surviving Kamizuru try to restore their former status by locating the First Tsuchikage's secret scroll, which is full of forbidden techniques for bug user ninja. To that end, they set out to find the bikōchū. Konoha's Bikōchū Search Team were also looking for the bikōchū, and thus the two eventually battled. All three of the Kamizuru were defeated by Hinata Hyūga using her recently perfected Protecting Eight Trigrams Sixty-Four Palms technique. Suzumebachi attempted one last-ditch attack with a summoned Giant Bee, but was defeated by Naruto's Rasengan." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kaguya
+:Kaguya rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Kaguya" ;
+               :hasKekkeiGenkai :Shikotsumyaku ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/0/09/Kaguya_Men.png/revision/latest?cb=20150924154027" ;
+               :hasMember :Kimimaro ;
+               :overview "The Kaguya clan were descendants of Kaguya Ōtsutsuki, and selective few, namely Kimimaro, possessed the kekkei genkai Shikotsumyaku from Kaguya's original bone-manipulating ability. This ability was so powerful that even the war-loving Kaguya clan feared it. The clan was noted for being very savage and battle-hungry, having no tactics when entering battle that they initiated simply to show off their ferocity. It was due to this failed attempt to prove themselves that the entire clan was killed off when attacking Kirigakure; even when surrounded and completely outmatched, they refused to back down, preferring to fight to the death simply to entertain their own bloodlust to the last. Kimimaro was the only one of the clan to survive, as he did not share the same urge for barbaric slaughter as the others, and after being adopted by Orochimaru, he would live as the last of the Kaguya clan for several years, but eventually died of a terminal illness." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Aburame
+:Aburame rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Aburame" ;
+               :belongsToVillage :Konohagakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/e/e1/Aburame_Symbol.svg/revision/latest?cb=20150802160958" ;
+               :hasImage :Aburame_image1 ;
+               :hasMember :Shibi_Aburame ,
+                         :Shino_Aburame ,
+                         :Torune_Aburame ;
+               :overview "The clan members may also carry additional insects in jars or gourds with them on missions. The insects can leave and enter their host's body through various pores. They feed on chakra as a food source, making them quite deadly. The relationship between the shinobi and the insects is mutually beneficial. The host grants the insects shelter and allows them to feed off their chakra, their body becoming a living hive of tens of thousands of these insects, and in return the insects do the user's bidding, allowing the shinobi to perform ninjutsu-like techniques without the use of hand seals or chakra conversion. A major defining trait of the Aburame clan is that all of its known members' eyes are obscured usually by glasses, as well as they wear clothing that usually cover up most of their body. A female insect can be left on a target, which then can be tracked by smell by the male insect, or scout insects can be sent out and return to tell the host information about the area. For this reason, Aburame clan members are experts in espionage; they can communicate with the insects, and the insects specialise in stealth because they make no noise or motion during combat. In addition to utilising insects in battle, the Aburame clan also studies insects. In the anime it was shown that they were rivals of the Kamizuru, a clan of bee users, until they defeated them in battle. Even though their insect-related techniques are known only amongst the clan, Aburame do not limit themselves to using just a single type of insects, in fact a select few used an insect considered rare even among the clan's members known as rinkaichū. To date, only Shikuro and Torune are known to possess it. Another rare insect used by the clan are the kidaichū, an insect which reacts so exponentially to chakra that they grow rapidly in size when exposed to incorrect amounts of it, consuming their victim from the inside out. As noted by Shino, it makes the insects troublesome ones to host in the body. Other insect breeds known to be used by the Aburame clan are the shōkaichū, which can detect chakra signatures and are used as trackers, and the kochū, which can infect enemies with a deadly paralysing poison. It has also been shown that they possess the ability to communicate with other bugs and insects, as seen when Shino used what looked like a bee to gather information for him during the Chūnin Exams." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Uzumaki
+:Uzumaki rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Uzumaki" ;
+               :belongsToVillage :Uzushiogakure ,
+                                :Konohagakure ;
+               :hasLeader :Naruto_Uzumaki ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/89/Uzumaki_Symbol.svg/revision/latest?cb=20180407232103" ;
+               :hasImage :Uzumaki_image1 ;
+               :hasMember :Fuso ,
+                         :Hinata_Hyuga ,
+                         :Karin ,
+                         :Nagato ,
+                         :Ashina_Uzumaki ,
+                         :Boruto_Uzumaki ,
+                         :Himawari_Uzumaki ,
+                         :Kushina_Uzumaki ,
+                         :Mito_Uzumaki ,
+                         :Naruto_Uzumaki ;
+               :overview "The Uzumaki, being descendants of Asura Ōtsutsuki, also shared distant blood relation with the Senju clan. Through the years, the Uzumaki and Senju kept close ties, with members at times marrying between clans, as with Hashirama Senju and Mito Uzumaki. Following the founding of Konohagakure at the end of the Warring States Period, the Senju chose to symbolise their clans' friendship by adding the Uzumaki's emblem to Konoha's flak jackets. Konoha and the Uzumaki's own Uzushiogakure remained close allies over the following decades, with the Uzumaki providing fūinjutsu (among other things) to Konoha whenever there was a need. In time, the Uzumaki Clan's Mask Storage Temple was even constructed on Konoha's outskirts. The Uzumaki's skill with fūinjutsu earned them both respect and fear throughout the ninja world. At some point after Kushina Uzumaki immigrated to Konoha, some of the world's nations banded together to destroy Uzushiogakure, believing the village was too powerful to be allowed to continue. The survivors of Uzushio's destruction went into hiding and spread throughout the world. Of the known members, Nagato was raised in the outskirts of Amegakure, Karin apparently lived in Kusagakure for a time, Kushina in Konoha, who had a son, Naruto. At some point, the clan was recognised as being part of Konoha, with its only known member Naruto marrying a Hyūga clansmen and having two children, resulting in the Byakugan being introduced into the clan's genetics." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Senju
+:Senju rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Senju" ;
+               :belongsToVillage :Konohagakure ;
+               :hasKekkeiGenkai :Wood ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/8d/Senju_Symbol.svg/revision/latest?cb=20090302032847" ;
+               :hasImage :Senju_image1 ;
+               :hasMember :Nawaki ,
+                         :Butsuma_Senju ,
+                         :Hashirama_Senju ,
+                         :Itama_Senju ,
+                         :Kawarama_Senju ,
+                         :Tobirama_Senju ,
+                         :Tsunade ,
+                         :Mito_Uzumaki ;
+               :overview "The Senju are distant relatives of the Uzumaki clan, and for that reason the two clans remained close allies throughout the years. Members at times married between clans, as with Hashirama Senju and Mito Uzumaki, and the Uzumaki would provide fūinjutsu whenever the Senju needed one performed. More distantly, the Senju are also related to the Uchiha clan, who descend from Hagoromo's elder son, Indra. Whereas Indra believed peace could be achieved through power, Asura believed peace could be achieved through love, a difference of mindset that caused them to battle over inheritance to the Sage's ways during their lifetimes. Their battle continued through the generations to their descendants, though neither the Senju nor the Uchiha remembered this reason for their conflict. By the time of the Warring States Period, the Senju and Uchiha had emerged as the strongest shinobi clans in the world. When one of the fledgling countries of the era would hire the Senju to fight in their wars, the opposing side would hire the Uchiha. The constant warfare between their clans only fueled their hatred, with all Senju owing the death of a loved one to an Uchiha and vice versa. But centuries of conflict began to wear on members of the clan; Hashirama Senju and Madara Uchiha met as children and became friends, bonding over their disapproval of the combat and death that they and their younger brothers were constantly subjected to and dreaming of a time when children wouldn't need to fight. Unable to do anything about the world at their age, Madara turned away from their dreams. Hashirama and Madara continued to face each other in battle over the coming years. In time, each became the leader of their respective clan, position that Hashirama tried to use to broker peace between them and finally achieve their childhood dreams. Despite growing interest in peace amongst the Uchiha, Madara was reluctant, opting instead to have one last contest for supremacy against the Senju. He was defeated, but rather than kill Madara, Hashirama offered to give up his own life if it would stop the fighting. Madara was moved by the gesture and agreed to peace. Their unified clans made a pact with the Land of Fire to create a hidden village within its borders, what would become Konohagakure. Other clans settled in Konoha to share their peace and Konoha's model was adopted across the shinobi world. The villagers of Konoha selected Hashirama to be their First Hokage, Konoha's leader. Madara interpreted this as the first step in the Senju's supremacy over the Uchiha, and for that reason left the village in protest. Hashirama had no intention of the Senju being left in charge and in fact believed it would be best if all Konoha's villagers, the Senju and Uchiha included, focused on Konoha's interests rather than their clan's. Despite this, Madara's fears would end up coming true: Hashirama's brother became the Second Hokage, his grandaughter becomes the Fifth Hokage, and all other Hokage have been part of a tree of student–teacher relationships that trace back to Hashirama. It isn't clear if the Senju still formally exist as a clan, as no living Konoha villagers are known to still bear the name. Konoha Hiden suggests that they are no longer active, as Kiba Inuzuka only recognises the name from history classes. Despite this, the Senju's influence continues to live on in all of Konoha's inhabitants, chiefly through the Senju's Will of Fire." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shimura
+:Shimura rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Shimura" ;
+               :belongsToVillage :Konohagakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c6/Shimura_Symbol.svg/revision/latest?cb=20150416033258" ;
+               :hasMember :Danzo_Shimura ;
+               :overview "After Konohagakure's formation following the Warring States Period, the Shimura were amongst the first set of clans to ally themselves with the Senju and Uchiha-founded village, alongside the Sarutobi clan. Not much else is known of the clan, except that Danzō Shimura noted that both his father and grandfather died on the battlefield. The clan was also well renowned, as Madara Uchiha was shocked upon hearing that the clan was joining the newly formed village." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Yamanaka
+:Yamanaka rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Yamanaka" ;
+               :belongsToVillage :Konohagakure ;
+               :hasLeader :Inoichi_Yamanaka ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/c9/Yamanaka_Symbol.svg/revision/latest?cb=20110330225003" ;
+               :hasMember :Inoichi_Yamanaka ,
+                         :Sai ,
+                         :Fu_Yamanaka ,
+                         :Ino_Yamanaka ,
+                         :Inojin_Yamanaka ;
+               :overview "The members of this clan specialise in mind-related techniques which makes them experts at intelligence gathering, espionage and interrogation amongst other things. They have also displayed sensory abilities and their techniques include transferring their consciousness, reading minds and communicating telepathically. The flower symbol of this clan is the bush clover which symbolises a \"positive love\". Most members of the Yamanaka clan wear their hair in a long ponytail, which appears to be traditional. The Yamanaka clan has a special relationship with the Akimichi and Nara clan. For generations, members of these three families have formed an \"Ino–Shika–Chō Trio\", named after the first part of the names of the members. The Yamanaka members are the \"Ino\" in the trio. To strengthen the unity between the three clans, a member of the Sarutobi clan will give them special earrings to present to each generation head when they are promoted to chūnin after which they will swear their oaths. The earrings also symbolise that they are considered adults by their respective clans." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Karatachi
+:Karatachi rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Karatachi" ;
+               :belongsToVillage :Kirigakure ;
+               :hasMember :Kagura_Karatachi ,
+                         :Yagura_Karatachi ;
+               :overview "This family was a group of people from Kirigakure, which has produced renowned shinobi. One of its members Yagura, went on to become the Fourth Mizukage. He used fear to rule the village and enforced Kiri's reputation as \"Village of the Bloody Mist\". Before dying, he had a child, who went on to have Kagura. Because of his grandfather's tyrannical reign, villagers kept their distance from Kagura. After the era of the \"Bloody Mist\", the family name no longer appears on memorials, which Shizuma Hoshigaki attributes it to being due to this family being considered a nuisance in the peaceful time." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hoshigaki
+:Hoshigaki rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Hoshigaki" ;
+               :belongsToVillage :Kirigakure ;
+               :hasMember :Kisame_Hoshigaki ,
+                         :Shizuma_Hoshigaki ;
+               :overview "This shinobi clan is from Kirigakure. All of its known members appear to have shark-like features such as sharp, pointed teeth and facial features that resemble gills. During the Sixth Mizukage's era, the family name no longer appears on memorials, which Shizuma attributes to his family being considered a nuisance in the peaceful time." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Nara
+:Nara rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Nara" ;
+               :belongsToVillage :Konohagakure ;
+               :hasLeader :Shikamaru_Nara ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/d/d5/Nara_Symbol.svg/revision/latest?cb=20110330225002" ;
+               :hasMember :Shikamaru_Nara ,
+                         :Ensui_Nara ,
+                         :Shikadai_Nara ,
+                         :Shikaku_Nara ,
+                         :Yoshino_Nara ,
+                         :Temari ;
+               :overview "The clan has kept a book with various medicine preparations and effects for generations, implying that they are skilled in the area of medicine and healing arts. Among the medicine described in this book are the secret pills used by the Akimichi clan. The Nara also have a special bond with the deer of the Nara Clan Forest, and only members of the clan are allowed inside without the deer attacking unless an outsider is given permission. The Nara clan has a special relationship with the Akimichi and the Yamanaka clan. For several generations, members of these three families have formed \"Ino–Shika–Chō\" trios, named after the first part of the names of the members with the Nara members being the \"Shika\" in the trio. To strengthen the unity between the three clans, a member of the Sarutobi clan will give them special earrings to present to each generation head when they are promoted to chūnin after which they will swear their oaths. The earrings also symbolise that they are considered adults by their respective clans. The clan members also seem to favour wearing their hair in ponytails. In the anime, it was revealed that the Nara clan also has a research facility with an abundance of medicines stored in it. It is located deep in the mountains, and thus has little security. Mizuki raided this laboratory for ingredients for his cursed seal. Upon the current head, Shikamaru, and his marriage with Temari, the Kazekage clan's bloodline has been introduced into the Nara clan." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sarutobi
+:Sarutobi rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Sarutobi" ;
+               :belongsToVillage :Konohagakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/fb/Sarutobi_Symbol.svg/revision/latest?cb=20150802153808" ;
+               :hasImage :Sarutobi_image1 ;
+               :hasMember :Asuma_Sarutobi ,
+                         :Biwako_Sarutobi ,
+                         :Hiruzen_Sarutobi ,
+                         :Konohamaru_Sarutobi ,
+                         :Mirai_Sarutobi ,
+                         :Kurenai_Yuhi ;
+               :overview "After Konohagakure's formation following the Warring States Period, the Sarutobi were amongst the first set of clans to ally themselves with the Senju and Uchiha-founded village, alongside the Shimura clan. Not much is known of this clan but, in order to strengthen the unity between the Akimichi, Nara, and Yamanaka clans, it has become a tradition that one of the Sarutobi give each of the members of the current Ino–Shika–Chō trio special earrings when they swear their oaths. Several members were also seen during the Fourth Shinobi World War in the battle against Madara, Obito Uchiha, and the Ten-Tails. They used the Fire Release: Great Flame Technique to quickly dry the quicklime which was covering the beast." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chinoike
+:Chinoike rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Chinoike" ;
+               :belongsToCountry :Land_of_Hot_Water ;
+               :hasKekkeiGenkai :Ketsuryugan ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/f/f5/Chinoike_Clan.png/revision/latest?cb=20161215125352" ;
+               :hasMember :Chino ,
+                         :En_Oyashiro ;
+               :overview "During the Warring States Period, the Chinoike were one of the many mercenary ninja clans active in the Land of Lightning. At some point, a woman of the Chinoike clan married the Land of Lightning's daimyō. The daimyō's first wife became jealous of her, and when the daimyō died soon after their marriage the first wife blamed the woman and her clan for the daimyō's death. Many believed the first wife's lies, causing the entire Chinoike clan to be banished from the country. The Uchiha clan were hired to carry out this task, and they forced the Chinoike clan to settle in the Valley of Hell in the Land of Hot Water. The Valley of Hell was thought to be uninhabitable. Ninja from the nearby Yugakure checked in on the Chinoike clan a few months after they were relocated to the valley and found them drinking what appeared to be blood; it was actually only water, turned red by minerals in the earth. Unwilling to investigate further, Yugakure declared the Valley of Hell off limits. Over the years, the valley's location was forgotten and the Chinoike clan faded from history. In truth, the Chinoike were able to survive, surviving off the valley's minimal wildlife and resources and enjoying decades of peace. Though living peacefully, the Chinoike clan had their disagreements. Being forced to live so closely together for so long caused even minor arguments to erupt into violence; in the anime, the tipping point was whether or not the clan should seek vengeance against the Uchiha clan for exiling them there. In a single night, the clan wiped themselves out, with only En Oyashiro and his daughter, Chino, surviving. They left the valley and Oyashiro, guilty for his role in the deaths of his clansmen, decided to hide his identity from Chino, raising her to believe that she was the last of her family in the hopes that she would not repeat his mistakes. Shortly after the deaths of the Chinoike clan, the Valley of Hell was rediscovered by Hidan. He reported this to Yugakure, who travelled there and confirmed that there was nobody still alive in the valley. They once again declared the valley off limits and officially ruled the Chinoike to be extinct." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kazekage
+:Kazekage rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Kazekage" ;
+               :belongsToVillage :Sunagakure ;
+               :hasKekkeiGenkai :Magnet ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/8b/Gaara%27s_dream.png/revision/latest?cb=20160305174411" ;
+               :hasMember :Gaara ,
+                         :Kankuro ,
+                         :Karura ,
+                         :Rasa ,
+                         :Shinki ,
+                         :Temari ;
+               :overview "Not much is known about the clan, with the exception that it has produced several notable members who have held positions of high authority, including the Fourth and Fifth Kazekage, and the village's ambassador. With Temari's marriage, the clan, to some extent, has obtained connections with the Konohagakure's Nara Clan. Because of Temari's marriage into a Konohagakure family, if Gaara and Kankurō die without leaving children of their own, the position of Kazekage would be open to Temari's children, whom would be categorised as a Konoha-nin. The Suna Council considered this as an undesirable result, thus attempted to coerce Gaara, the Fifth Kazekage, into an arranged marriage to leave an heir. However, some other extremist members would prefer to banish the clan with a frame-up in order to prevent any of them from claiming the bloodline altogether." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hyuga
+:Hyuga rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Hyūga" ;
+               :belongsToVillage :Konohagakure ;
+               :hasKekkeiGenkai :Byakugan ;
+               :hasLeader :Hiashi_Hyuga ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/a8/Hy%C5%ABga_Symbol.svg/revision/latest?cb=20150510204349" ;
+               :hasImage :Hyuga_image1 ;
+               :hasMember :Hyuga_Elder ,
+                         :Hanabi_Hyuga ,
+                         :Hiashi_Hyuga ,
+                         :Hinata_Hyuga ,
+                         :Hizashi_Hyuga ,
+                         :Ko_Hyuga ,
+                         :Neji_Hyuga ,
+                         :Boruto_Uzumaki ,
+                         :Himawari_Uzumaki ;
+               :overview "The Hyūga clan are descendants from the Ōtsutsuki clan, specifically from Hamura Ōtsutsuki's lineage. As a result, they are also distant cousins of the Uchiha, Senju, Uzumaki, and Kaguya clans. They are considered to be one of, if not currently, the most powerful clan in Konohagakure. Their fame and prowess stretches far and wide, leading others to both praise and covet their abilities. During the Fourth Shinobi World War, a Kumo-nin noted that they had a hard time against them during a previous war. The clan is separated into two parts: the main house (sōke) and the branch house (bunke), a system that protects the secrets of the Byakugan from outsiders. The main house runs the family while the branch house protects it. The members of the branch house are branded with a cursed seal upon the third birthday of the heir to the main house. This seal gives the main house members absolute control over the branch members, because they can destroy the branch members' brain cells with a simple hand seal, or cause them great pain to punish them. This seal also makes sure the secret of the Hyūga's Byakugan is safe, because it seals the Byakugan after the wearer of the seal dies. Because they are essentially servants, simply because of their birth order or heritage, some branch house members are hostile to those of the main house. In the past, there have been several attempts on the part of Kumogakure to acquire the dōjutsu of this clan. This even culminated in the death of the would-be-thief: the Head Ninja of Kumogakure and the demands of Hiashi's corpse who had killed him according to the stipulations in the peace treaty that the two villages had signed. Ultimately, Hizashi was the one who sacrificed his life for the village and clan, sealing away his Byakugan as he died and avoiding war. This event would become known as the Hyūga Affair." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hatake
+:Hatake rdf:type owl:NamedIndividual ,
+                    :Clan ;
+               :name "Hatake" ;
+               :belongsToVillage :Konohagakure ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ac/Hatake_Symbol.svg/revision/latest?cb=20150509210734" ;
+               :hasMember :Kakashi_Hatake ,
+                         :Sakumo_Hatake ;
+               :overview "The Hatake Clan (Hatake Ichizoku) is one of the many clans that reside in Konohagakure. Its only known members are renowned ninja: Konoha's White Fang (Konoha no Shiroi Kiba) Sakumo, and his son Copy Ninja Kakashi (Kopī Ninja no Kakashi). The latter would later become the Sixth Hokage following the end of the Fourth Shinobi World War. The clan possessed at least one heirloom: the White Light Chakra Sabre, which produced white chakra when swung." .
+
+

@@ -1,0 +1,515 @@
+[
+    {
+        "name": "Raikage",
+        "description": "The Raikage is the Kage of Kumogakure, a title bestowed on the village's leader. The Raikage is generally regarded as the strongest shinobi in the village. There have been five Raikage in the village's history. The Raikage position was created after the formation of Kumo by A, the village's founder, that in anime was the second of the five Kage to emerge. How the Raikage is selected isn't clear; The Second was appointed for his long service and dedication as the bodyguard of the First Raikage and after the Third died, his son automatically became Fourth Raikage, a decision made many years earlier. Generally, the Raikage is known for its strong desire to protect the village and its inhabitants as well as for its pride. The Raikage works inside a central blue structure inside Kumogakure. Throughout Kumo's history, the first four Raikage each had the given name A (Ē). Each A had a tag-team partner named \"B\" (Bī), who was responsible for defending the Raikage and bringing out the Raikage's full power.",
+        "members": [
+            "A (First Raikage)",
+            "A (Second Raikage)",
+            "A (Third Raikage)",
+            "A (Fourth Raikage)",
+            "Darui"
+        ],
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/3/3c/Raikage_hat.svg/revision/latest?cb=20180103164759"
+    },
+    {
+        "name": "Hoshikage",
+        "description": "The Hoshikage is the leader of Hoshigakure. The title of Hoshikage is merely a formality within Hoshigakure as it is not recognised as a Kage by the Five Great Shinobi Countries, but Hoshigakure hopes to one day change that. The First Hoshikage came to be when Hoshigakure was first found by him 200 years ago. It was from his appointment as \"Hoshikage\" that the village began using that title for their village heads, in the hopes that their village will one day be strong enough to be recognised as worthy as the villages of the Five Great Shinobi Countries. The Third Hoshikage was killed by Akahoshi, and he became the Fourth Hoshikage for a short time. After the people of Hoshigakure discovered he killed the Third Hoshikage, he was defeated by Naruto Uzumaki and given to the proper authorities. His fate and the next Hoshikage are unknown.",
+        "members": ["First Hoshikage", "Third Hoshikage", "Akahoshi"],
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/2/29/Hoshikage_Hat.svg/revision/latest?cb=20170610102829"
+    },
+    {
+        "name": "Tsuchikage",
+        "description": "The Tsuchikage is the Kage of Iwagakure, a title bestowed on the village's leader. The Tsuchikage is generally regarded as the strongest shinobi in the village. There have been four Tsuchikage in the village's history. The Tsuchikage position was created after the formation of Iwa by Ishikawa, the village's founder, that in anime was the third of the five Kage to emerge. The manner in which the Tsuchikage is chosen is not known, but three of the four Tsuchikage are linked by the same family: the First was the grandfather of the Third and the Fourth was the granddaughter of the Third and descendant of the First. Although it is unclear whether the Second was related to the First, he had been his personal bodyguard and the Third's teacher. The Tsuchikage resides in the tallest building in Iwa: a stone building with a cone-shaped roof that bears the kanji for Tsuchi. The Tsuchikage are known for the realisation of true authority, having their shinobi obeying all commands without hesitation. Over time, because the governments of the Second and Third Tsuchikage employed unfair tactics such as taking advantage of alliances, even in peacetime, earned the post and its village a bad reputation among other villages. It was not until the time of the Fourth Shinobi World War and afterwards conflict that the infamy of both position and village would end.",
+        "members": ["Ishikawa", "Mū", "Ōnoki", "Kurotsuchi"],
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/d/d9/Tsuchikage_hat.svg/revision/latest?cb=20121206202539"
+    },
+    {
+        "name": "Mizukage",
+        "description": "The Mizukage is the Kage of Kirigakure, a title bestowed on the village's leader. The Mizukage is generally regarded as the strongest shinobi in the village. There have been six Mizukage in the village's history. The Mizukage position was created after the formation of Kiri by Byakuren, the village's founder, that in anime was the fourth of the five Kage to emerge. The position is filled by the strongest person in the village, regardless of considerations such as age. The Mizukage's building is the largest landmark in Kirigakure, bearing the kanji for Mizu on it. Throughout history, the word of the Mizukage has influenced all political and military issues that arise in relation to Kiri and its inhabitants, with each of the first four leaders having their governments mainly marked by strong secrecy, strict internal politics and limited interaction with other villages. It was not until the reign of the Fifth Mizukage that the traditional governance of the position would undergo a reform which would restore diplomatic relations with other villages.",
+        "members": [
+            "Byakuren",
+            "Gengetsu Hōzuki",
+            "Third Mizukage",
+            "Yagura Karatachi",
+            "Mei Terumī",
+            "Chōjūrō"
+        ],
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/c/cf/Mizukage_hat.svg/revision/latest?cb=20121206202431"
+    },
+    {
+        "name": "Hokage",
+        "description": "The Hokage is the Kage of Konohagakure, a title bestowed on the village's leader. The Hokage is generally regarded as the strongest shinobi in the village. There have been seven Hokage in the village's history. The Hokage position was created shortly after the creation of Konoha by Hashirama Senju, one of the village's founders. He intended the title to be given to his co-founder, Madara Uchiha, but the village's population instead selected Hashirama as the First Hokage. Madara feared that Hashirama's selection was the first step in making the Hokage office an extension of the Senju clan's authority, a fear Hashirama denied. Despite this, all of the village's Hokage have traced back to Hashirama in some way: the Second was his brother; the Third was a student of both his brother and himself; the Fourth was a student of one of the Third's students; the Fifth is his granddaughter and another student of the Third; the Sixth was a student of the Fourth; the Seventh is a student of the Sixth and the son of the Fourth. The Hokage typically selects their successor. If they die or are otherwise incapacitated, the next Hokage is instead chosen by the daimyō of the Land of Fire with the advice of his committee, the Konoha Council, the Jōnin Commander and a representative of the Anbu. This choice must then be approved by Konoha's jōnin. If one of the Hokage's predecessors is still alive, they may return to office rather than select a new Hokage, as when the Third came out of retirement following the Fourth's death. The Hokage's inauguration is a major event in Konoha, with most of the village attending. The new Hokage is granted a ceremonial haori on the occasion; the same woman has embroidered the haori for all seven Hokage. Once they assume the duties of Hokage, their face is carved into the Hokage Rock and they usually move in to the Hokage Residence. The Hokage's office is located in the administrative section of the Academy. Hokage are responsible for most of the village's day-to-day affairs, such as assigning the village's ninja to missions or securing funding for the village's projects and personnel. The Hokage spends most of their time in the village, only travelling abroad for events of vital importance to Konoha. Each Hokage typically lives according to the Will of Fire, a philosophy that holds that Konoha is a family and that the Hokage is chiefly responsible for protecting that family. The workload of Hokage can be quite formidable, and as such retired Hokage may continue to oversee certain sections of the village or, if not that, will advise the current Hokage on request. Over a decade after the Fourth Shinobi World War, the workload of the Hokage had expanded tremendously due to the expansive growth that Konohagakure enjoyed after the War, as well as the Hokage's duties becoming nearly that of a pseudo-head of state in the Land of Fire. As such, until his schedule lessened, the Seventh Hokage would be swamped with paperwork and other appearances all over the village turned city to the point where even his massive chakra reserves would be depleted. And he would be unable to spend time with his family, temporarily forming a rift between himself and his eldest son.",
+        "members": [
+            "Hashirama Senju",
+            "Tobirama Senju",
+            "Hiruzen Sarutobi",
+            "Minato Namikaze",
+            "Tsunade",
+            "Kakashi Hatake",
+            "Naruto Uzumaki"
+        ],
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/a/a1/Hokage_hat.svg/revision/latest?cb=20121206202544"
+    },
+    {
+        "name": "Kazekage",
+        "description": "The Kazekage is the Kage of Sunagakure, a title bestowed on the village's leader. The Kazekage is generally regarded as the strongest shinobi in the village. There have been five Kazekage in the village's history. The Kazekage position was created after the formation of Suna by Reto, the village's founder, that in anime was the last of the five Kage to emerge. Although it is not expressly stated how a candidate for office is selected, in Gaara Hiden suggests that the Kazekage position is hereditary, or at least that relatives of the Fourth Kazekage are most suitable for the position; this lineage is referred to as the \"Kazekage Clan\". If the occupant of the post die or reported missing after a long period of time, the next Kazekage is chosen by the Suna Council. Once the duties of the position are assumed, they usually move to the Kazekage's Office. Throughout history, the Kazekage have earned a reputation for being feared and respected around the world, due be responsible for keeping Suna on an even footing with the other villages despite its small size. However, the Kazekage title is sometimes considered cursed, as all the Kazekage, including the current, have met untimely deaths at the hands of assassins; the village's affairs are decided by the Suna Council in the interim between Kazekage. Full-bodied statues of all the former Kazekage are kept in council's meeting chambers.",
+        "members": ["Reto", "Shamon", "Third Kazekage", "Rasa", "Gaara"],
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/3/38/Kazekage_hat.svg/revision/latest?cb=20121206202527"
+    },
+    {
+        "name": "Supreme Leader of the Allied Shinobi Forces",
+        "members": ["A (Fourth Raikage)"]
+    },
+    {
+        "name": "Tsuchikage's Bodyguard",
+        "members": ["Akatsuchi"]
+    },
+    {
+        "name": "Scientist",
+        "members": ["Amachi", "Orochimaru", "Tanuki Shigaraki"]
+    },
+    {
+        "name": "Chūnin Exams Proctor",
+        "members": [
+            "Anko Mitarashi",
+            "Genma Shiranui",
+            "Hayate Gekkō",
+            "Ibiki Morino",
+            "Rock Lee",
+            "Sai",
+            "Shino Aburame",
+            "Temari",
+            "Tenten"
+        ]
+    },
+    {
+        "name": "Academy Teacher",
+        "members": [
+            "Anko Mitarashi",
+            "Iruka Umino",
+            "Konohamaru Sarutobi",
+            "Moegi Kazamatsuri",
+            "Shino Aburame"
+        ]
+    },
+    {
+        "name": "Fifth Mizukage's Bodyguard",
+        "members": ["Ao"]
+    },
+    {
+        "name": "Captain of the Sensor Division of the Allied Shinobi Forces",
+        "members": ["Ao"]
+    },
+    {
+        "name": "Leader of the Uzumaki Clan",
+        "members": ["Ashina Uzumaki"]
+    },
+    {
+        "name": "Senior",
+        "members": ["Baki", "Ebizō", "Yūra"]
+    },
+    {
+        "name": "Head Monk",
+        "members": ["Bansai", "Chiriku"]
+    },
+    {
+        "name": "Akatsuki spy",
+        "members": ["Black Zetsu"]
+    },
+    {
+        "name": "Fourth Raikage's Bodyguard",
+        "members": ["C"]
+    },
+    {
+        "name": "Counsellor (Retired)",
+        "members": ["Chiyo"]
+    },
+    {
+        "name": "Head of the Akimichi Clan",
+        "members": ["Chōza Akimichi"]
+    },
+    {
+        "name": "Leader of Root",
+        "members": ["Danzō Shimura"]
+    },
+    {
+        "name": "Candidate Sixth Hokage",
+        "members": ["Danzō Shimura"]
+    },
+    {
+        "name": "First Division Commander of the Allied Shinobi Forces",
+        "members": ["Darui"]
+    },
+    {
+        "name": "Terrorist Bomber",
+        "members": ["Deidara"]
+    },
+    {
+        "name": "Raikage Attendant",
+        "members": ["Dodai"]
+    },
+    {
+        "name": "Personal Trainer",
+        "members": ["Ebisu"]
+    },
+    {
+        "name": "Head of the Suna Council",
+        "members": ["Ebizō"]
+    },
+    {
+        "name": "Kekkei Genkai collector",
+        "members": ["En Oyashiro"]
+    },
+    {
+        "name": "Head of the Uchiha Clan",
+        "members": ["Fugaku Uchiha", "Sasuke Uchiha"]
+    },
+    {
+        "name": "Captain of the Konoha Military Police Force",
+        "members": ["Fugaku Uchiha"]
+    },
+    {
+        "name": "Nurse",
+        "members": ["Fusō"]
+    },
+    {
+        "name": "Regimental Commander of the Allied Shinobi Forces",
+        "members": ["Gaara"]
+    },
+    {
+        "name": "Commander of the Fourth Division",
+        "members": ["Gaara"]
+    },
+    {
+        "name": "Captain of the Explosion Corps",
+        "members": ["Gari"]
+    },
+    {
+        "name": "Elite Bodyguard",
+        "members": ["Genma Shiranui", "Raidō Namiashi"]
+    },
+    {
+        "name": "Priest",
+        "members": ["Hagoromo Ōtsutsuki"]
+    },
+    {
+        "name": "Head of the Ōtsutsuki Clan",
+        "members": ["Hamura Ōtsutsuki", "Kaguya Ōtsutsuki"]
+    },
+    {
+        "name": "Veterinarian",
+        "members": ["Hana Inuzuka"]
+    },
+    {
+        "name": "Heiress of the Hyūga Clan",
+        "members": ["Hanabi Hyūga", "Hinata Hyūga"]
+    },
+    {
+        "name": "Village Head",
+        "members": ["Hanzō", "Konan", "Nagato"]
+    },
+    {
+        "name": "Head of the Senju clan",
+        "members": ["Hashirama Senju"]
+    },
+    {
+        "name": "Head of the Hyūga clan",
+        "members": ["Hiashi Hyūga", "Hyūga Elder"]
+    },
+    {
+        "name": "Councillor",
+        "members": ["Homura Mitokado", "Koharu Utatane"]
+    },
+    {
+        "name": "Head of the Konoha Torture and Interrogation Force",
+        "members": ["Ibiki Morino"]
+    },
+    {
+        "name": "Botanist",
+        "members": ["Ino Yamanaka"]
+    },
+    {
+        "name": "Leader of the Konoha Barrier Team",
+        "members": ["Ino Yamanaka"]
+    },
+    {
+        "name": "Head of the Yamanaka Clan",
+        "members": ["Inoichi Yamanaka"]
+    },
+    {
+        "name": "Head of the Analysis Team",
+        "members": ["Inoichi Yamanaka"]
+    },
+    {
+        "name": "Proprietor of Yamanaka Flowers",
+        "members": ["Inoichi Yamanaka"]
+    },
+    {
+        "name": "Captain of the Intelligence Division of the Allied Shinobi Forces",
+        "members": ["Inoichi Yamanaka"]
+    },
+    {
+        "name": "Headmaster",
+        "members": ["Iruka Umino"]
+    },
+    {
+        "name": "Doctor",
+        "members": ["Ise"]
+    },
+    {
+        "name": "Anbu Captain",
+        "members": ["Itachi Uchiha", "Kakashi Hatake"]
+    },
+    {
+        "name": "Chūnin Exams Assistant",
+        "members": ["Izumo Kamizuki", "Kotetsu Hagane"]
+    },
+    {
+        "name": "Village Gate Guard",
+        "members": ["Izumo Kamizuki", "Kotetsu Hagane"]
+    },
+    {
+        "name": "Fifth Hokage's Assistant",
+        "members": ["Izumo Kamizuki", "Kotetsu Hagane"]
+    },
+    {
+        "name": "Writer",
+        "members": ["Jiraiya"]
+    },
+    {
+        "name": "Orochimaru's spy and right-hand man",
+        "members": ["Kabuto Yakushi"]
+    },
+    {
+        "name": "Sasori's spy",
+        "members": ["Kabuto Yakushi"]
+    },
+    {
+        "name": "Caretaker at the Konoha Orphanage",
+        "members": ["Kabuto Yakushi"]
+    },
+    {
+        "name": "Mizukage's Assistant",
+        "members": ["Kagura Karatachi"]
+    },
+    {
+        "name": "Princess",
+        "members": ["Kaguya Ōtsutsuki"]
+    },
+    {
+        "name": "Third Division Commander of the Allied Shinobi Forces",
+        "members": ["Kakashi Hatake"]
+    },
+    {
+        "name": "Akatsuki Treasurer",
+        "members": ["Kakuzu"]
+    },
+    {
+        "name": "Fifth Kazekage's Bodyguard",
+        "members": ["Kankurō", "Temari"]
+    },
+    {
+        "name": "Captain of the Surprise Attack Division of the Allied Shinobi Forces",
+        "members": ["Kankurō"]
+    },
+    {
+        "name": "Leader of the Counter-Terrorism Division",
+        "members": ["Kankurō"]
+    },
+    {
+        "name": "Dog Breeder",
+        "members": ["Kiba Inuzuka"]
+    },
+    {
+        "name": "Police Officer",
+        "members": ["Kiba Inuzuka"]
+    },
+    {
+        "name": "Guardian of Kumogakure",
+        "members": ["Killer B"]
+    },
+    {
+        "name": "Second Division Commander of the Allied Shinobi Forces",
+        "members": ["Kitsuchi"]
+    },
+    {
+        "name": "Hinata's Bodyguard",
+        "members": ["Kō Hyūga"]
+    },
+    {
+        "name": "Fourth Raikage's Assistant",
+        "members": ["Mabui"]
+    },
+    {
+        "name": "Co-founder of Konohagakure",
+        "members": ["Madara Uchiha"]
+    },
+    {
+        "name": "Head of the Uchiha clan",
+        "members": ["Madara Uchiha"]
+    },
+    {
+        "name": "General",
+        "members": ["Mifune"]
+    },
+    {
+        "name": "Fifth Division Commander of the Allied Shinobi Forces",
+        "members": ["Mifune"]
+    },
+    {
+        "name": "Housewife",
+        "members": ["Mikoto Uchiha", "Yoshino Nara"]
+    },
+    {
+        "name": "Otogakure spy",
+        "members": ["Misumi Tsurugi", "Yoroi Akadō"]
+    },
+    {
+        "name": "Bodyguard",
+        "members": ["Misumi Tsurugi", "Yoroi Akadō"]
+    },
+    {
+        "name": "Former Academy Instructor",
+        "members": ["Mizuki"]
+    },
+    {
+        "name": "Guide",
+        "members": ["Motoi"]
+    },
+    {
+        "name": "Akatsuki Leader",
+        "members": ["Nagato"]
+    },
+    {
+        "name": "Caretaker of the Konoha Orphanage",
+        "members": ["Nonō Yakushi", "Urushi"]
+    },
+    {
+        "name": "Captain of the Medic Corps",
+        "members": ["Nonō Yakushi"]
+    },
+    {
+        "name": "Leader of Akatsuki",
+        "members": ["Obito Uchiha"]
+    },
+    {
+        "name": "Secret Leader of Kirigakure",
+        "members": ["Obito Uchiha"]
+    },
+    {
+        "name": "Fifth Raikage's Bodyguard",
+        "members": ["Omoi"]
+    },
+    {
+        "name": "Founder and Leader of Otogakure",
+        "members": ["Orochimaru"]
+    },
+    {
+        "name": "Assassin",
+        "members": ["Raidō Namiashi"]
+    },
+    {
+        "name": "Head of Kurosuki Family",
+        "members": ["Raiga Kurosuki"]
+    },
+    {
+        "name": "Chef Apprentice",
+        "members": ["Ranmaru"]
+    },
+    {
+        "name": "Anbu Chief",
+        "members": ["Sai"]
+    },
+    {
+        "name": "Leader of Sound Four",
+        "members": ["Sakon and Ukon"]
+    },
+    {
+        "name": "Director of Konoha Children Mental Health Clinic",
+        "members": ["Sakura Haruno"]
+    },
+    {
+        "name": "Head of Konoha Medical Department",
+        "members": ["Sakura Haruno"]
+    },
+    {
+        "name": "Head of the Aburame Clan",
+        "members": ["Shibi Aburame"]
+    },
+    {
+        "name": "Head of the Nara Clan",
+        "members": ["Shikaku Nara", "Shikamaru Nara"]
+    },
+    {
+        "name": "Deer Herder",
+        "members": ["Shikaku Nara"]
+    },
+    {
+        "name": "Jōnin Commander",
+        "members": ["Shikaku Nara"]
+    },
+    {
+        "name": "Chief Strategist of the Allied Shinobi Forces",
+        "members": ["Shikaku Nara"]
+    },
+    {
+        "name": "Hokage's Chief Aide",
+        "members": ["Shikamaru Nara"]
+    },
+    {
+        "name": "Planner for the Shinobi Union",
+        "members": ["Shikamaru Nara"]
+    },
+    {
+        "name": "Proxy Commander of Fourth Division of the Allied Shinobi Forces",
+        "members": ["Shikamaru Nara"]
+    },
+    {
+        "name": "Chūnin Exam Proctor",
+        "members": ["Shikamaru Nara"]
+    },
+    {
+        "name": "Instructor",
+        "members": ["Shinku Yūhi"]
+    },
+    {
+        "name": "Hokage's Assistant",
+        "members": ["Shizune"]
+    },
+    {
+        "name": "Captain of the Logistical Support and Medical Division of the Allied Shinobi Forces",
+        "members": ["Shizune"]
+    },
+    {
+        "name": "Katasuke Tōno's Assistant",
+        "members": ["Sumire Kakei"]
+    },
+    {
+        "name": "Ambassador",
+        "members": ["Temari"]
+    },
+    {
+        "name": "Emperor of the Land of Ancestors",
+        "members": ["Tenji"]
+    },
+    {
+        "name": "Weapon Seller",
+        "members": ["Tenten"]
+    },
+    {
+        "name": "Akatsuki Spy",
+        "members": ["White Zetsu", "Zetsu"]
+    },
+    {
+        "name": "Founder and leader of Akatsuki",
+        "members": ["Yahiko"]
+    },
+    {
+        "name": "Sasori's subordinate",
+        "members": ["Yūra"]
+    },
+    {
+        "name": "Toad Elder",
+        "members": ["Fukasaku", "Shima"]
+    }
+]

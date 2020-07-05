@@ -1,0 +1,60 @@
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ryuchi_Cave
+:Ryuchi_Cave rdf:type owl:NamedIndividual ,
+                    :Domain ;
+               :name "Ryūchi Cave" ;
+               :hasLeader :White_Snake_Sage ;
+               :hasMember :Aoda ,
+                         :Garaga ,
+                         :Three_Giant_Snakes ,
+                         :Manda ,
+                         :White_Snake_Sage ;
+               :hasSummoner :Orochimaru ,
+                         :Anko_Mitarashi ,
+                         :Kabuto_Yakushi ,
+                         :Sasuke_Uchiha ,
+                         :Boruto_Uzumaki ;
+               :symbol "https://vignette.wikia.nocookie.net/naruto/images/1/1d/Ry%C5%ABchi_Cave_Symbol.svg/revision/latest?cb=20131029191753" ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/a/ac/Ry%C5%ABchi_Cave.png/revision/latest?cb=20150903040345" ;
+               :englishName "Dragon Ground Cave" ;
+               :overview "Ryūchi Cave (Ryūchidō) is one of the big three unexplored sage regions, a legendary place that is equally famous as the other two, Mount Myōboku and Shikkotsu Forest. It is the residence of the snakes — including the sacred White Snake Sage — and is also where Orochimaru uncovered the source of Jūgo's clan's abilities. Orochimaru and Kabuto Yakushi trained here to achieve Sage Mode, though only the latter was successful in this endeavour." ;
+               :history "In the anime, journey to Ryūchi Cave takes only a couple days from Konohagakure. While many travellers may venture close to it unknowingly, the snakes of Ryūchi Cave take precautions so that only those who are deliberately trying to visit it can arrive at it. In their experience, only those willing to sacrifice anything in their greed for power come to Ryūchi Cave. In order to be granted audience to learn senjutsu with the White Snake Sage, one must pass three trials posed by the snakes. According to the rules, if a candidate fails at any of the trials, the snakes are allowed to devour them and consume their chakra. At least one section of the cave is made of limestone, and despite nominally being a cave, its territories also include wetlands." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mount_Myoboku
+:Mount_Myoboku rdf:type owl:NamedIndividual ,
+                    :Domain ;
+               :name "Mount Myōboku" ;
+               :hasLeader :Gamamaru ;
+               :hasMember :Fukasaku ,
+                         :Shima ,
+                         :Gama ,
+                         :Gamabunta ,
+                         :Gamatatsu ,
+                         :Gamakichi ,
+                         :Gamagoro ,
+                         :Gamahiro ,
+                         :Gamaken ,
+                         :Gamamaru ,
+                         :Gerotora ;
+               :hasSummoner :Jiraiya ,
+                         :Minato_Namikaze ,
+                         :Naruto_Uzumaki ,
+                         :Konohamaru_Sarutobi ;
+               :symbol "https://vignette.wikia.nocookie.net/naruto/images/3/31/Toad_Symbol.svg/revision/latest?cb=20090906235831" ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/5/50/My%C5%8Dbokuzan.PNG/revision/latest?cb=20160224020751" ;
+               :overview "Mount Myōboku (Myōbokuzan), also known as the \"Mountain of Bewilderment\" (Mayoi no Yama) and the \"Land of Toads\" (Gama no Kuni), is one of the big three unexplored sage regions, a legendary place that is equally as famous as the other two, Shikkotsu Forest and Ryūchi Cave. It's the land of toads and the place where all the toads that Naruto, Minato, and Jiraiya have summoned live. It is home for huge and small toads alike. Mount Myōboku is a rich and beautiful land, whose ultimate authority seems to be the Great Toad Sage. Shima and Fukasaku are both elders and sages, and they seem to have an even higher authority than Gamabunta himself." ;
+               :history "For a human to get to Mount Myōboku, it either takes a month long travel on secret paths from Konohagakure or, if they have a summoning contract, they can let a toad use the Reverse Summoning Technique. According to Fukasaku, Mount Myōboku is impossible to find by foot for those who don't know the secret route. In the anime, Jiraiya was transported to Mount Myōboku in his youth via using the summoning technique without a contract. There is a special portal called the Distant Body Water (Enshinsui) that links Mount Myōboku and Konohagakure, that enables the smaller toads to quickly travel between the two without the use of the summoning technique. Combined with a toad that can perform the Summoning Technique, the toads can be summoned to aid Konohagakure in the event a living toad summoner isn't in Konoha at the time. On Mount Myōboku exists a score of musical genjutsu that have passed down since an immemorial time, such as the Demonic Illusion: Toad Confrontation Chant, a technique that two great toad sages have mastered. These genjutsu are very powerful and can only be performed by combining the melody and the lyrics that only the toads can utter. There is a special location known as Mount Myōboku: Rock Lodging (Myōbokuzan: Iwayado), where a great, fire-breathing toad resides. Mount Myōboku has records of its population in a list, and the name of a Mount Myōboku toad stays there until it dies. Some of the inhabitants of Mount Myōboku can use senjutsu to gather natural energy. There is a sacred fountain on Mount Myōboku that produces a special oil which allows people to feel the natural energy around them more easily, but if the person is not perfectly still when becoming one with nature, he or she starts becoming a toad and eventually turns into stone. This oil can only exist in the atmosphere of the mountain and will evaporate if taken outside. There are many statues of the frog ancestors and people who tried to learn senjutsu but failed in doing so and became toad statues. The statues are treated with high respect." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Shikkotsu_Forest
+:Shikkotsu_Forest rdf:type owl:NamedIndividual ,
+                    :Domain ;
+               :name "Shikkotsu Forest" ;
+               :hasMember :Katsuyu ;
+               :hasSummoner :Tsunade ,
+                         :Sakura_Haruno ;
+               :symbol "https://vignette.wikia.nocookie.net/naruto/images/3/38/Shikkotsu_Forest_Symbol.svg/revision/latest?cb=20160725161658" ;
+               :englishName "Shikkotsu Woods" ;
+               :overview "The Shikkotsu Forest (Shikkotsurin) is a legendary place and one of the three unexplored sage regions; the other two being: Mount Myōboku and Ryūchi Cave.[1][2] It is the home of the slug Katsuyu,[3] parts of which are summoned by Tsunade and her disciple Sakura Haruno." .
+
+

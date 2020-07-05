@@ -1,0 +1,48 @@
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Land_of_the_Sea
+:Land_of_the_Sea rdf:type owl:NamedIndividual ,
+                    :Country ;
+               :name "Land of the Sea" ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/cc/Land_of_the_Sea.PNG/revision/latest?cb=20150121124531" ;
+               :overview "The Land of the Sea (Umi no Kuni) is featured in episode 169 through episode 173. It consists of several islands, Hahajima being the main one. It's surrounded by three other islands; Jiro, Taro, and Demon Islands. Jiro Island is where Anko Mitarashi was abandoned and taken as a test subject for the Cursed Seal of Heaven by Orochimaru, and was eventually found by the Anbu. Orochimaru had a hideout here, and several of his forbidden experiments were conducted here as well. One of his subordinates continued the work after Orochimaru abandoned it, leading to attacks on the local ships. It is not a prosperous nation, and relies on shinobi from Kirigakure for protection. Fifteen years after the Fourth Shinobi World War, the Land of the Sea has attempted to expand its influence, causing friction with the Land of Water, to the point the Land of Water is uneasy with signing a treaty that would give the Land of the Sea more stability." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Land_of_Ancestors
+:Land_of_Ancestors rdf:type owl:NamedIndividual ,
+                    :Country ;
+               :name "Land of Ancestors" ;
+               :symbol "https://vignette.wikia.nocookie.net/naruto/images/7/71/Land_of_Ancestors_Symbol.svg/revision/latest?cb=20160520162553" ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/c/cc/Land_of_Ancestors.png/revision/latest?cb=20160704012735" ;
+               :overview "The Land of Ancestors (So no Kuni) was a small country that existed over a millennium ago before the start of the series. The country itself was comprised of numerous farming villages, that were surrounded by small forests. The country also contained a huge lake, which acted as main resource for villagers. Its leader was the emperor Tenji. This country was also the location from which the God Tree originated. When Kaguya Ōtsutsuki first arrived on Earth, the country was on the verge of war with the Land of That. Upon consuming the God Tree's chakra fruit, Kaguya activated the Infinite Tsukuyomi and trapped all those caught within it. The mountains that surrounded the God Tree became known as the \"Peaks of Demise\" (Shūen no Tōge)." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Land_of_Fire
+:Land_of_Fire rdf:type owl:NamedIndividual ,
+                    :Country ;
+               :name "Land of Fire" ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/1/19/Land_of_Fire.png/revision/latest?cb=20161223165445" ;
+               :overview "The Land of Fire (Hi no Kuni) is one of the largest and most powerful countries seen, and is the home of the main characters of the series. Its government leader is the Fire Daimyō. The Land of Fire was the first country to adopt a ninja village, Konohagakure, a custom other countries would soon adopt. The Land of Fire is appropriately oriented towards the element of fire, typically having very bright and warm weather. While not the physically largest country, it has the largest hidden village. The Land of Fire has been involved in wars with the Land of Lightning, the Land of Earth, and the Land of Wind. In the quiet years that followed, the Land of Fire slowly recovered, and became accustomed to peace. This was seen by other countries, who had been working to increase their military power, as a weakness, and is one of the factors that brought about the Konoha Crush by Otogakure and Sunagakure. On the border between the Land of Fire and the Land of Sound sits the Valley of the End, a large rift formed shortly after the founding of Konohagakure by the First Hokage and Madara Uchiha." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Land_of_Hot_Water
+:Land_of_Hot_Water rdf:type owl:NamedIndividual ,
+                    :Country ;
+               :name "Land of Hot Water" ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/87/Land_of_Hot_Water.png/revision/latest?cb=20150106165244" ;
+               :overview "The Land of Hot Water (Yu no Kuni) is a country that shares borders with the Land of Frost, the Land of Sound, and the Land of Fire. Its government leader is the Hot Water Daimyō. Hotsprings are common throughout the country, many of which have at least some amount of human settlement built around them. These hotsprings are frequently the settlements' primary or even only source of revenue. In Konoha Shinden, the Land of Hot Water is noted to have two other major products related to its many hotsprings. The first is the spring water itself, which is thought to have medicinal qualities determined by its mineral content. Specialised doctors throughout the country will advise patients to visit specific hotsprings particular to their illness and drink the hotspring's water to get better. The second is potatoes, which grow in abundance throughout the Land of Hot Water and which most settlements have their special way of preparing. With so much of the population living in remote locations and with its economy being so reliant on tourism, the country has pronounced peaceful tendencies; the Land of Hot Water's ninja village, Yugakure, is largely responsible for maintaining this peace. During the Fourth Shinobi World War, much of the country is evacuated so as not to get caught up in the fighting between Akatsuki and the Allied Shinobi Forces." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Land_of_Iron
+:Land_of_Iron rdf:type owl:NamedIndividual ,
+                    :Country ;
+               :name "Land of Iron" ;
+               :image "https://vignette.wikia.nocookie.net/naruto/images/8/82/LandofIron.png/revision/latest?cb=20150101173232" ;
+               :overview "The Land of Iron (Tetsu no Kuni) is an icy, snow-covered country located among three mountains called the Three Wolves (Sanrō). Unlike other countries of the world whose militaries use shinobi, the Land of Iron's military is made up of samurai. Due to the differing ideologies between shinobi and samurai – as well as the fact that the Land of Iron's samurai are quite formidable – there is an agreement among shinobi not to interfere with the Land of Iron. Under Mifune's leadership, the Land of Iron joins the Allied Shinobi Forces to oppose Akatsuki during the Fourth Shinobi World War. Because the Land of Iron has had little involvement with the shinobi world, shinobi have frequently used the country as a neutral meeting place for diplomatic discussions: the country has hosted at least one Kage Summit, the Continental Summit, and the Shinobi Union is headquartered there." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Land_of_Rivers
+:Land_of_Rivers rdf:type owl:NamedIndividual ,
+                    :Country ;
+               :name "Land of Rivers" ;
+               :overview "The Land of Rivers (Kawa no Kuni) does not play any particular role in the story until Pakkun discovers the first known Akatsuki hideout in one of the country's caverns, where Akatsuki extracted Shukaku from Gaara's body. The hideout was decimated shortly thereafter during a battle between Sasori, Sakura and Chiyo, and subsequently abandoned. In the anime, this country also holds the Katabami Gold Mine, village, and processing centre. There is an exclusive shop renowned as the Curry of Life Shop where Naruto, Neji, Tenten, and Rock Lee came to eat. The Takumi Village and Tanigakure also reside here. Sometime after the Ōtsutsuki attack, a team of researchers from this country was sent to investigate Jūgo under the guise of looking into a recent spike in violent bird attacks." .
+
+

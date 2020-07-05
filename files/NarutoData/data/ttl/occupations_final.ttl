@@ -1,0 +1,885 @@
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Raikage
+:Raikage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Raikage" ;
+               :hasMember :A_First_Raikage ,
+                         :A_Second_Raikage ,
+                         :A_Third_Raikage ,
+                         :A_Fourth_Raikage ,
+                         :Darui ;
+                :image "https://vignette.wikia.nocookie.net/naruto/images/3/3c/Raikage_hat.svg/revision/latest?cb=20180103164759" ;
+                :description "The Raikage is the Kage of Kumogakure, a title bestowed on the village's leader. The Raikage is generally regarded as the strongest shinobi in the village. There have been five Raikage in the village's history. The Raikage position was created after the formation of Kumo by A, the village's founder, that in anime was the second of the five Kage to emerge. How the Raikage is selected isn't clear; The Second was appointed for his long service and dedication as the bodyguard of the First Raikage and after the Third died, his son automatically became Fourth Raikage, a decision made many years earlier. Generally, the Raikage is known for its strong desire to protect the village and its inhabitants as well as for its pride. The Raikage works inside a central blue structure inside Kumogakure. Throughout Kumo's history, the first four Raikage each had the given name A (Ē). Each A had a tag-team partner named \"B\" (Bī), who was responsible for defending the Raikage and bringing out the Raikage's full power." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hoshikage
+:Hoshikage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Hoshikage" ;
+               :hasMember :First_Hoshikage ,
+                         :Third_Hoshikage ,
+                         :Akahoshi ;
+                :image "https://vignette.wikia.nocookie.net/naruto/images/2/29/Hoshikage_Hat.svg/revision/latest?cb=20170610102829" ;
+                :description "The Hoshikage is the leader of Hoshigakure. The title of Hoshikage is merely a formality within Hoshigakure as it is not recognised as a Kage by the Five Great Shinobi Countries, but Hoshigakure hopes to one day change that. The First Hoshikage came to be when Hoshigakure was first found by him 200 years ago. It was from his appointment as \"Hoshikage\" that the village began using that title for their village heads, in the hopes that their village will one day be strong enough to be recognised as worthy as the villages of the Five Great Shinobi Countries. The Third Hoshikage was killed by Akahoshi, and he became the Fourth Hoshikage for a short time. After the people of Hoshigakure discovered he killed the Third Hoshikage, he was defeated by Naruto Uzumaki and given to the proper authorities. His fate and the next Hoshikage are unknown." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tsuchikage
+:Tsuchikage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Tsuchikage" ;
+               :hasMember :Ishikawa ,
+                         :Mu ,
+                         :Onoki ,
+                         :Kurotsuchi ;
+                :image "https://vignette.wikia.nocookie.net/naruto/images/d/d9/Tsuchikage_hat.svg/revision/latest?cb=20121206202539" ;
+                :description "The Tsuchikage is the Kage of Iwagakure, a title bestowed on the village's leader. The Tsuchikage is generally regarded as the strongest shinobi in the village. There have been four Tsuchikage in the village's history. The Tsuchikage position was created after the formation of Iwa by Ishikawa, the village's founder, that in anime was the third of the five Kage to emerge. The manner in which the Tsuchikage is chosen is not known, but three of the four Tsuchikage are linked by the same family: the First was the grandfather of the Third and the Fourth was the granddaughter of the Third and descendant of the First. Although it is unclear whether the Second was related to the First, he had been his personal bodyguard and the Third's teacher. The Tsuchikage resides in the tallest building in Iwa: a stone building with a cone-shaped roof that bears the kanji for Tsuchi. The Tsuchikage are known for the realisation of true authority, having their shinobi obeying all commands without hesitation. Over time, because the governments of the Second and Third Tsuchikage employed unfair tactics such as taking advantage of alliances, even in peacetime, earned the post and its village a bad reputation among other villages. It was not until the time of the Fourth Shinobi World War and afterwards conflict that the infamy of both position and village would end." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mizukage
+:Mizukage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Mizukage" ;
+               :hasMember :Byakuren ,
+                         :Gengetsu_Hozuki ,
+                         :Third_Mizukage ,
+                         :Yagura_Karatachi ,
+                         :Mei_Terumī ,
+                         :Chojuro ;
+                :image "https://vignette.wikia.nocookie.net/naruto/images/c/cf/Mizukage_hat.svg/revision/latest?cb=20121206202431" ;
+                :description "The Mizukage is the Kage of Kirigakure, a title bestowed on the village's leader. The Mizukage is generally regarded as the strongest shinobi in the village. There have been six Mizukage in the village's history. The Mizukage position was created after the formation of Kiri by Byakuren, the village's founder, that in anime was the fourth of the five Kage to emerge. The position is filled by the strongest person in the village, regardless of considerations such as age. The Mizukage's building is the largest landmark in Kirigakure, bearing the kanji for Mizu on it. Throughout history, the word of the Mizukage has influenced all political and military issues that arise in relation to Kiri and its inhabitants, with each of the first four leaders having their governments mainly marked by strong secrecy, strict internal politics and limited interaction with other villages. It was not until the reign of the Fifth Mizukage that the traditional governance of the position would undergo a reform which would restore diplomatic relations with other villages." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hokage
+:Hokage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Hokage" ;
+               :hasMember :Hashirama_Senju ,
+                         :Tobirama_Senju ,
+                         :Hiruzen_Sarutobi ,
+                         :Minato_Namikaze ,
+                         :Tsunade ,
+                         :Kakashi_Hatake ,
+                         :Naruto_Uzumaki ;
+                :image "https://vignette.wikia.nocookie.net/naruto/images/a/a1/Hokage_hat.svg/revision/latest?cb=20121206202544" ;
+                :description "The Hokage is the Kage of Konohagakure, a title bestowed on the village's leader. The Hokage is generally regarded as the strongest shinobi in the village. There have been seven Hokage in the village's history. The Hokage position was created shortly after the creation of Konoha by Hashirama Senju, one of the village's founders. He intended the title to be given to his co-founder, Madara Uchiha, but the village's population instead selected Hashirama as the First Hokage. Madara feared that Hashirama's selection was the first step in making the Hokage office an extension of the Senju clan's authority, a fear Hashirama denied. Despite this, all of the village's Hokage have traced back to Hashirama in some way: the Second was his brother; the Third was a student of both his brother and himself; the Fourth was a student of one of the Third's students; the Fifth is his granddaughter and another student of the Third; the Sixth was a student of the Fourth; the Seventh is a student of the Sixth and the son of the Fourth. The Hokage typically selects their successor. If they die or are otherwise incapacitated, the next Hokage is instead chosen by the daimyō of the Land of Fire with the advice of his committee, the Konoha Council, the Jōnin Commander and a representative of the Anbu. This choice must then be approved by Konoha's jōnin. If one of the Hokage's predecessors is still alive, they may return to office rather than select a new Hokage, as when the Third came out of retirement following the Fourth's death. The Hokage's inauguration is a major event in Konoha, with most of the village attending. The new Hokage is granted a ceremonial haori on the occasion; the same woman has embroidered the haori for all seven Hokage. Once they assume the duties of Hokage, their face is carved into the Hokage Rock and they usually move in to the Hokage Residence. The Hokage's office is located in the administrative section of the Academy. Hokage are responsible for most of the village's day-to-day affairs, such as assigning the village's ninja to missions or securing funding for the village's projects and personnel. The Hokage spends most of their time in the village, only travelling abroad for events of vital importance to Konoha. Each Hokage typically lives according to the Will of Fire, a philosophy that holds that Konoha is a family and that the Hokage is chiefly responsible for protecting that family. The workload of Hokage can be quite formidable, and as such retired Hokage may continue to oversee certain sections of the village or, if not that, will advise the current Hokage on request. Over a decade after the Fourth Shinobi World War, the workload of the Hokage had expanded tremendously due to the expansive growth that Konohagakure enjoyed after the War, as well as the Hokage's duties becoming nearly that of a pseudo-head of state in the Land of Fire. As such, until his schedule lessened, the Seventh Hokage would be swamped with paperwork and other appearances all over the village turned city to the point where even his massive chakra reserves would be depleted. And he would be unable to spend time with his family, temporarily forming a rift between himself and his eldest son." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kazekage
+:Kazekage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Kazekage" ;
+               :hasMember :Reto ,
+                         :Shamon ,
+                         :Third_Kazekage ,
+                         :Rasa ,
+                         :Gaara ;
+                :image "https://vignette.wikia.nocookie.net/naruto/images/3/38/Kazekage_hat.svg/revision/latest?cb=20121206202527" ;
+                :description "The Kazekage is the Kage of Sunagakure, a title bestowed on the village's leader. The Kazekage is generally regarded as the strongest shinobi in the village. There have been five Kazekage in the village's history. The Kazekage position was created after the formation of Suna by Reto, the village's founder, that in anime was the last of the five Kage to emerge. Although it is not expressly stated how a candidate for office is selected, in Gaara Hiden suggests that the Kazekage position is hereditary, or at least that relatives of the Fourth Kazekage are most suitable for the position; this lineage is referred to as the \"Kazekage Clan\". If the occupant of the post die or reported missing after a long period of time, the next Kazekage is chosen by the Suna Council. Once the duties of the position are assumed, they usually move to the Kazekage's Office. Throughout history, the Kazekage have earned a reputation for being feared and respected around the world, due be responsible for keeping Suna on an even footing with the other villages despite its small size. However, the Kazekage title is sometimes considered cursed, as all the Kazekage, including the current, have met untimely deaths at the hands of assassins; the village's affairs are decided by the Suna Council in the interim between Kazekage. Full-bodied statues of all the former Kazekage are kept in council's meeting chambers." .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Supreme_Leader_of_the_Allied_Shinobi_Forces
+:Supreme_Leader_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Supreme Leader of the Allied Shinobi Forces" ;
+               :hasMember :A_Fourth_Raikage .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Tsuchikage_Bodyguard
+:Tsuchikage_Bodyguard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Tsuchikage's Bodyguard" ;
+               :hasMember :Akatsuchi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Scientist
+:Scientist rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Scientist" ;
+               :hasMember :Amachi ,
+                         :Orochimaru ,
+                         :Tanuki_Shigaraki .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chunin_Exams_Proctor
+:Chunin_Exams_Proctor rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Chūnin Exams Proctor" ;
+               :hasMember :Anko_Mitarashi ,
+                         :Genma_Shiranui ,
+                         :Hayate_Gekko ,
+                         :Ibiki_Morino ,
+                         :Rock_Lee ,
+                         :Sai ,
+                         :Shino_Aburame ,
+                         :Temari ,
+                         :Tenten .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Academy_Teacher
+:Academy_Teacher rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Academy Teacher" ;
+               :hasMember :Anko_Mitarashi ,
+                         :Iruka_Umino ,
+                         :Konohamaru_Sarutobi ,
+                         :Moegi_Kazamatsuri ,
+                         :Shino_Aburame .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fifth_Mizukage_Bodyguard
+:Fifth_Mizukage_Bodyguard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Fifth Mizukage's Bodyguard" ;
+               :hasMember :Ao .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Captain_of_the_Sensor_Division_of_the_Allied_Shinobi_Forces
+:Captain_of_the_Sensor_Division_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Captain of the Sensor Division of the Allied Shinobi Forces" ;
+               :hasMember :Ao .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Leader_of_the_Uzumaki_Clan
+:Leader_of_the_Uzumaki_Clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Leader of the Uzumaki Clan" ;
+               :hasMember :Ashina_Uzumaki .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Senior
+:Senior rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Senior" ;
+               :hasMember :Baki ,
+                         :Ebizo ,
+                         :Yura .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_Monk
+:Head_Monk rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head Monk" ;
+               :hasMember :Bansai ,
+                         :Chiriku .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akatsuki_spy
+:Akatsuki_spy rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Akatsuki spy" ;
+               :hasMember :Black_Zetsu .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fourth_Raikage_Bodyguard
+:Fourth_Raikage_Bodyguard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Fourth Raikage's Bodyguard" ;
+               :hasMember :C .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Counsellor_Retired
+:Counsellor_Retired rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Counsellor (Retired)" ;
+               :hasMember :Chiyo .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Akimichi_Clan
+:Head_of_the_Akimichi_Clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Akimichi Clan" ;
+               :hasMember :Choza_Akimichi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Leader_of_Root
+:Leader_of_Root rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Leader of Root" ;
+               :hasMember :Danzo_Shimura .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Candidate_Sixth_Hokage
+:Candidate_Sixth_Hokage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Candidate Sixth Hokage" ;
+               :hasMember :Danzo_Shimura .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#First_Division_Commander_of_the_Allied_Shinobi_Forces
+:First_Division_Commander_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "First Division Commander of the Allied Shinobi Forces" ;
+               :hasMember :Darui .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Terrorist_Bomber
+:Terrorist_Bomber rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Terrorist Bomber" ;
+               :hasMember :Deidara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Raikage_Attendant
+:Raikage_Attendant rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Raikage Attendant" ;
+               :hasMember :Dodai .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Personal_Trainer
+:Personal_Trainer rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Personal Trainer" ;
+               :hasMember :Ebisu .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Suna_Council
+:Head_of_the_Suna_Council rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Suna Council" ;
+               :hasMember :Ebizo .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Kekkei_Genkai_collector
+:Kekkei_Genkai_collector rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Kekkei Genkai collector" ;
+               :hasMember :En_Oyashiro .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Uchiha_Clan
+:Head_of_the_Uchiha_Clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Uchiha Clan" ;
+               :hasMember :Fugaku_Uchiha ,
+                         :Sasuke_Uchiha .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Captain_of_the_Konoha_Military_Police_Force
+:Captain_of_the_Konoha_Military_Police_Force rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Captain of the Konoha Military Police Force" ;
+               :hasMember :Fugaku_Uchiha .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Nurse
+:Nurse rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Nurse" ;
+               :hasMember :Fuso .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Regimental_Commander_of_the_Allied_Shinobi_Forces
+:Regimental_Commander_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Regimental Commander of the Allied Shinobi Forces" ;
+               :hasMember :Gaara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Commander_of_the_Fourth_Division
+:Commander_of_the_Fourth_Division rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Commander of the Fourth Division" ;
+               :hasMember :Gaara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Captain_of_the_Explosion_Corps
+:Captain_of_the_Explosion_Corps rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Captain of the Explosion Corps" ;
+               :hasMember :Gari .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Elite_Bodyguard
+:Elite_Bodyguard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Elite Bodyguard" ;
+               :hasMember :Genma_Shiranui ,
+                         :Raido_Namiashi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Priest
+:Priest rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Priest" ;
+               :hasMember :Hagoromo_Otsutsuki .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Otsutsuki_Clan
+:Head_of_the_Otsutsuki_Clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Ōtsutsuki Clan" ;
+               :hasMember :Hamura_Otsutsuki ,
+                         :Kaguya_Otsutsuki .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Veterinarian
+:Veterinarian rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Veterinarian" ;
+               :hasMember :Hana_Inuzuka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Heiress_of_the_Hyuga_Clan
+:Heiress_of_the_Hyuga_Clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Heiress of the Hyūga Clan" ;
+               :hasMember :Hanabi_Hyuga ,
+                         :Hinata_Hyuga .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Village_Head
+:Village_Head rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Village Head" ;
+               :hasMember :Hanzo ,
+                         :Konan ,
+                         :Nagato .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Senju_clan
+:Head_of_the_Senju_clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Senju clan" ;
+               :hasMember :Hashirama_Senju .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Hyuga_clan
+:Head_of_the_Hyuga_clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Hyūga clan" ;
+               :hasMember :Hiashi_Hyuga ,
+                         :Hyuga_Elder .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Councillor
+:Councillor rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Councillor" ;
+               :hasMember :Homura_Mitokado ,
+                         :Koharu_Utatane .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Konoha_Torture_and_Interrogation_Force
+:Head_of_the_Konoha_Torture_and_Interrogation_Force rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Konoha Torture and Interrogation Force" ;
+               :hasMember :Ibiki_Morino .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Botanist
+:Botanist rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Botanist" ;
+               :hasMember :Ino_Yamanaka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Leader_of_the_Konoha_Barrier_Team
+:Leader_of_the_Konoha_Barrier_Team rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Leader of the Konoha Barrier Team" ;
+               :hasMember :Ino_Yamanaka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Yamanaka_Clan
+:Head_of_the_Yamanaka_Clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Yamanaka Clan" ;
+               :hasMember :Inoichi_Yamanaka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Analysis_Team
+:Head_of_the_Analysis_Team rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Analysis Team" ;
+               :hasMember :Inoichi_Yamanaka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Proprietor_of_Yamanaka_Flowers
+:Proprietor_of_Yamanaka_Flowers rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Proprietor of Yamanaka Flowers" ;
+               :hasMember :Inoichi_Yamanaka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Captain_of_the_Intelligence_Division_of_the_Allied_Shinobi_Forces
+:Captain_of_the_Intelligence_Division_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Captain of the Intelligence Division of the Allied Shinobi Forces" ;
+               :hasMember :Inoichi_Yamanaka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Headmaster
+:Headmaster rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Headmaster" ;
+               :hasMember :Iruka_Umino .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Doctor
+:Doctor rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Doctor" ;
+               :hasMember :Ise .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Anbu_Captain
+:Anbu_Captain rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Anbu Captain" ;
+               :hasMember :Itachi_Uchiha ,
+                         :Kakashi_Hatake .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chunin_Exams_Assistant
+:Chunin_Exams_Assistant rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Chūnin Exams Assistant" ;
+               :hasMember :Izumo_Kamizuki ,
+                         :Kotetsu_Hagane .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Village_Gate_Guard
+:Village_Gate_Guard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Village Gate Guard" ;
+               :hasMember :Izumo_Kamizuki ,
+                         :Kotetsu_Hagane .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fifth_Hokage_Assistant
+:Fifth_Hokage_Assistant rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Fifth Hokage's Assistant" ;
+               :hasMember :Izumo_Kamizuki ,
+                         :Kotetsu_Hagane .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Writer
+:Writer rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Writer" ;
+               :hasMember :Jiraiya .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Orochimaru_spy_and_right_hand_man
+:Orochimaru_spy_and_right_hand_man rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Orochimaru's spy and right-hand man" ;
+               :hasMember :Kabuto_Yakushi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasori_spy
+:Sasori_spy rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Sasori's spy" ;
+               :hasMember :Kabuto_Yakushi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Caretaker_at_the_Konoha_Orphanage
+:Caretaker_at_the_Konoha_Orphanage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Caretaker at the Konoha Orphanage" ;
+               :hasMember :Kabuto_Yakushi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Mizukage_Assistant
+:Mizukage_Assistant rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Mizukage's Assistant" ;
+               :hasMember :Kagura_Karatachi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Princess
+:Princess rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Princess" ;
+               :hasMember :Kaguya_Otsutsuki .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Third_Division_Commander_of_the_Allied_Shinobi_Forces
+:Third_Division_Commander_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Third Division Commander of the Allied Shinobi Forces" ;
+               :hasMember :Kakashi_Hatake .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akatsuki_Treasurer
+:Akatsuki_Treasurer rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Akatsuki Treasurer" ;
+               :hasMember :Kakuzu .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fifth_Kazekage_Bodyguard
+:Fifth_Kazekage_Bodyguard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Fifth Kazekage's Bodyguard" ;
+               :hasMember :Kankuro ,
+                         :Temari .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Captain_of_the_Surprise_Attack_Division_of_the_Allied_Shinobi_Forces
+:Captain_of_the_Surprise_Attack_Division_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Captain of the Surprise Attack Division of the Allied Shinobi Forces" ;
+               :hasMember :Kankuro .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Leader_of_the_Counter_Terrorism_Division
+:Leader_of_the_Counter_Terrorism_Division rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Leader of the Counter-Terrorism Division" ;
+               :hasMember :Kankuro .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Dog_Breeder
+:Dog_Breeder rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Dog Breeder" ;
+               :hasMember :Kiba_Inuzuka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Police_Officer
+:Police_Officer rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Police Officer" ;
+               :hasMember :Kiba_Inuzuka .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Guardian_of_Kumogakure
+:Guardian_of_Kumogakure rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Guardian of Kumogakure" ;
+               :hasMember :Killer_B .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Second_Division_Commander_of_the_Allied_Shinobi_Forces
+:Second_Division_Commander_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Second Division Commander of the Allied Shinobi Forces" ;
+               :hasMember :Kitsuchi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hinata_Bodyguard
+:Hinata_Bodyguard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Hinata's Bodyguard" ;
+               :hasMember :Ko_Hyuga .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fourth_Raikage_Assistant
+:Fourth_Raikage_Assistant rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Fourth Raikage's Assistant" ;
+               :hasMember :Mabui .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Co_founder_of_Konohagakure
+:Co_founder_of_Konohagakure rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Co-founder of Konohagakure" ;
+               :hasMember :Madara_Uchiha .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Uchiha_clan
+:Head_of_the_Uchiha_clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Uchiha clan" ;
+               :hasMember :Madara_Uchiha .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#General
+:General rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "General" ;
+               :hasMember :Mifune .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fifth_Division_Commander_of_the_Allied_Shinobi_Forces
+:Fifth_Division_Commander_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Fifth Division Commander of the Allied Shinobi Forces" ;
+               :hasMember :Mifune .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Housewife
+:Housewife rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Housewife" ;
+               :hasMember :Mikoto_Uchiha ,
+                         :Yoshino_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Otogakure_spy
+:Otogakure_spy rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Otogakure spy" ;
+               :hasMember :Misumi_Tsurugi ,
+                         :Yoroi_Akado .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Bodyguard
+:Bodyguard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Bodyguard" ;
+               :hasMember :Misumi_Tsurugi ,
+                         :Yoroi_Akado .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Former_Academy_Instructor
+:Former_Academy_Instructor rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Former Academy Instructor" ;
+               :hasMember :Mizuki .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Guide
+:Guide rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Guide" ;
+               :hasMember :Motoi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akatsuki_Leader
+:Akatsuki_Leader rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Akatsuki Leader" ;
+               :hasMember :Nagato .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Caretaker_of_the_Konoha_Orphanage
+:Caretaker_of_the_Konoha_Orphanage rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Caretaker of the Konoha Orphanage" ;
+               :hasMember :Nono_Yakushi ,
+                         :Urushi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Captain_of_the_Medic_Corps
+:Captain_of_the_Medic_Corps rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Captain of the Medic Corps" ;
+               :hasMember :Nono_Yakushi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Leader_of_Akatsuki
+:Leader_of_Akatsuki rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Leader of Akatsuki" ;
+               :hasMember :Obito_Uchiha .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Secret_Leader_of_Kirigakure
+:Secret_Leader_of_Kirigakure rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Secret Leader of Kirigakure" ;
+               :hasMember :Obito_Uchiha .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Fifth_Raikage_Bodyguard
+:Fifth_Raikage_Bodyguard rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Fifth Raikage's Bodyguard" ;
+               :hasMember :Omoi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Founder_and_Leader_of_Otogakure
+:Founder_and_Leader_of_Otogakure rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Founder and Leader of Otogakure" ;
+               :hasMember :Orochimaru .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Assassin
+:Assassin rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Assassin" ;
+               :hasMember :Raido_Namiashi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_Kurosuki_Family
+:Head_of_Kurosuki_Family rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of Kurosuki Family" ;
+               :hasMember :Raiga_Kurosuki .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chef_Apprentice
+:Chef_Apprentice rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Chef Apprentice" ;
+               :hasMember :Ranmaru .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Anbu_Chief
+:Anbu_Chief rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Anbu Chief" ;
+               :hasMember :Sai .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Leader_of_Sound_Four
+:Leader_of_Sound_Four rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Leader of Sound Four" ;
+               :hasMember :Sakon_and_Ukon .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Director_of_Konoha_Children_Mental_Health_Clinic
+:Director_of_Konoha_Children_Mental_Health_Clinic rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Director of Konoha Children Mental Health Clinic" ;
+               :hasMember :Sakura_Haruno .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_Konoha_Medical_Department
+:Head_of_Konoha_Medical_Department rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of Konoha Medical Department" ;
+               :hasMember :Sakura_Haruno .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Aburame_Clan
+:Head_of_the_Aburame_Clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Aburame Clan" ;
+               :hasMember :Shibi_Aburame .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Head_of_the_Nara_Clan
+:Head_of_the_Nara_Clan rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Head of the Nara Clan" ;
+               :hasMember :Shikaku_Nara ,
+                         :Shikamaru_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Deer_Herder
+:Deer_Herder rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Deer Herder" ;
+               :hasMember :Shikaku_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Jonin_Commander
+:Jonin_Commander rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Jōnin Commander" ;
+               :hasMember :Shikaku_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chief_Strategist_of_the_Allied_Shinobi_Forces
+:Chief_Strategist_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Chief Strategist of the Allied Shinobi Forces" ;
+               :hasMember :Shikaku_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hokage_Chief_Aide
+:Hokage_Chief_Aide rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Hokage's Chief Aide" ;
+               :hasMember :Shikamaru_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Planner_for_the_Shinobi_Union
+:Planner_for_the_Shinobi_Union rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Planner for the Shinobi Union" ;
+               :hasMember :Shikamaru_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Proxy_Commander_of_Fourth_Division_of_the_Allied_Shinobi_Forces
+:Proxy_Commander_of_Fourth_Division_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Proxy Commander of Fourth Division of the Allied Shinobi Forces" ;
+               :hasMember :Shikamaru_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Chunin_Exam_Proctor
+:Chunin_Exam_Proctor rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Chūnin Exam Proctor" ;
+               :hasMember :Shikamaru_Nara .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Instructor
+:Instructor rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Instructor" ;
+               :hasMember :Shinku_Yuhi .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Hokage_Assistant
+:Hokage_Assistant rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Hokage's Assistant" ;
+               :hasMember :Shizune .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Captain_of_the_Logistical_Support_and_Medical_Division_of_the_Allied_Shinobi_Forces
+:Captain_of_the_Logistical_Support_and_Medical_Division_of_the_Allied_Shinobi_Forces rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Captain of the Logistical Support and Medical Division of the Allied Shinobi Forces" ;
+               :hasMember :Shizune .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Katasuke_Tono_Assistant
+:Katasuke_Tono_Assistant rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Katasuke Tōno's Assistant" ;
+               :hasMember :Sumire_Kakei .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Ambassador
+:Ambassador rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Ambassador" ;
+               :hasMember :Temari .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Emperor_of_the_Land_of_Ancestors
+:Emperor_of_the_Land_of_Ancestors rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Emperor of the Land of Ancestors" ;
+               :hasMember :Tenji .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Weapon_Seller
+:Weapon_Seller rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Weapon Seller" ;
+               :hasMember :Tenten .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Akatsuki_Spy
+:Akatsuki_Spy rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Akatsuki Spy" ;
+               :hasMember :White_Zetsu ,
+                         :Zetsu .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Founder_and_leader_of_Akatsuki
+:Founder_and_leader_of_Akatsuki rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Founder and leader of Akatsuki" ;
+               :hasMember :Yahiko .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Sasori_subordinate
+:Sasori_subordinate rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Sasori's subordinate" ;
+               :hasMember :Yura .
+
+
+###  http://www.semanticweb.org/bosch/ontologies/2020/4/naruto#Toad_Elder
+:Toad_Elder rdf:type owl:NamedIndividual ,
+                    :Occupation ;
+               :name "Toad Elder" ;
+               :hasMember :Fukasaku ,
+                         :Shima .
+
+
